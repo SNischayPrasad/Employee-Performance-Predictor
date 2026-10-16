@@ -1,0 +1,5 @@
+model,cv_accuracy,cv_f1_macro,cv_f1_std
+Logistic Regression,0.7581,0.7632,0.0257
+Gradient Boosting,0.7069,0.6947,0.045
+Random Forest,0.6738,0.6781,0.037
+Decision Tree,0.5544,0.5544,0.0213
