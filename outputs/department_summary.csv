@@ -1,0 +1,8 @@
+department,employees,pct_high,pct_low,avg_training_hours,avg_satisfaction
+Finance,212,25.5,34.9,37.1,2.9
+Support,222,24.3,34.7,34.8,3.0
+Operations,290,29.3,31.0,33.8,3.0
+Engineering,561,26.7,30.3,35.8,3.0
+HR,130,32.3,26.9,33.7,2.9
+Marketing,202,37.6,25.2,35.1,3.1
+Sales,383,31.1,24.3,36.8,2.9

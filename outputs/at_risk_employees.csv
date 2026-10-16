@@ -1,0 +1,591 @@
+employee_id,department,job_level,training_hours,absences,job_satisfaction,predicted_category,confidence,hr_recommendation
+EMP01127,Finance,Senior,28.0,5,2.0,Low,1.0,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01727,Finance,Lead,10.0,8,1.0,Low,1.0,Performance Improvement Plan + mentor; increase training hours; check attendance / wellbeing; 1:1 engagement conversation
+EMP01295,Engineering,Lead,10.0,8,1.0,Low,1.0,Performance Improvement Plan + mentor; increase training hours; check attendance / wellbeing; 1:1 engagement conversation; burnout risk - review workload
+EMP00038,Engineering,Lead,11.0,6,4.0,Low,1.0,Performance Improvement Plan + mentor; increase training hours
+EMP01592,Marketing,Senior,18.0,5,1.0,Low,1.0,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00782,Engineering,Mid,3.0,2,1.0,Low,1.0,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01561,Engineering,Senior,9.0,7,2.0,Low,1.0,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01924,Engineering,Senior,12.0,5,2.0,Low,1.0,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00729,Support,Senior,8.0,4,2.0,Low,0.999,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00087,Engineering,Senior,16.0,6,1.0,Low,0.999,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00321,Support,Mid,18.0,7,2.0,Low,0.999,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01591,Support,Lead,21.0,7,3.0,Low,0.999,Performance Improvement Plan + mentor; burnout risk - review workload
+EMP00190,HR,Junior,18.0,5,1.0,Low,0.999,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00127,Support,Mid,40.0,7,1.0,Low,0.999,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00019,Sales,Lead,18.0,8,1.0,Low,0.999,Performance Improvement Plan + mentor; increase training hours; check attendance / wellbeing; 1:1 engagement conversation
+EMP00370,Finance,Lead,29.0,6,1.0,Low,0.999,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00686,Operations,Lead,17.0,8,1.0,Low,0.999,Performance Improvement Plan + mentor; increase training hours; check attendance / wellbeing; 1:1 engagement conversation
+EMP01227,Sales,Senior,26.0,7,2.0,Low,0.999,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01184,Engineering,Mid,41.0,5,1.0,Low,0.999,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01921,HR,Lead,12.0,11,2.0,Low,0.999,Performance Improvement Plan + mentor; increase training hours; check attendance / wellbeing; 1:1 engagement conversation; burnout risk - review workload
+EMP00206,Sales,Mid,19.0,9,1.0,Low,0.999,Performance Improvement Plan + mentor; increase training hours; check attendance / wellbeing; 1:1 engagement conversation
+EMP01533,HR,Lead,6.0,7,1.0,Low,0.998,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01526,Engineering,Junior,21.0,5,2.0,Low,0.998,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01968,Finance,Lead,32.0,4,2.0,Low,0.998,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01484,Engineering,Junior,39.0,4,1.0,Low,0.998,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01140,Engineering,Senior,27.0,3,2.0,Low,0.998,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00291,Sales,Senior,30.0,6,1.0,Low,0.998,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01196,Support,Senior,20.0,7,4.0,Low,0.997,Performance Improvement Plan + mentor
+EMP01847,Marketing,Senior,42.0,4,1.0,Low,0.997,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00394,Support,Lead,9.0,2,2.0,Low,0.997,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01756,Engineering,Senior,12.0,6,1.0,Low,0.997,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01124,Sales,Mid,37.0,6,2.0,Low,0.997,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00069,Finance,Junior,33.0,5,1.0,Low,0.997,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00074,HR,Junior,11.0,5,1.0,Low,0.997,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00772,Marketing,Lead,32.0,6,1.0,Low,0.997,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01238,Finance,Mid,17.0,5,1.0,Low,0.997,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01075,Finance,Senior,42.0,5,4.0,Low,0.996,Performance Improvement Plan + mentor
+EMP00854,Operations,Junior,25.0,12,5.0,Low,0.996,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP00105,Operations,Mid,18.0,8,1.0,Low,0.996,Performance Improvement Plan + mentor; increase training hours; check attendance / wellbeing; 1:1 engagement conversation
+EMP00150,Sales,Junior,31.0,5,3.0,Low,0.996,Performance Improvement Plan + mentor
+EMP00897,Engineering,Lead,32.0,5,1.0,Low,0.996,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01931,Finance,Junior,23.0,6,4.0,Low,0.996,Performance Improvement Plan + mentor
+EMP01468,Finance,Mid,33.0,4,1.0,Low,0.996,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01259,Support,Senior,16.0,7,3.0,Low,0.996,Performance Improvement Plan + mentor; increase training hours
+EMP01966,Operations,Lead,32.0,6,1.0,Low,0.996,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00096,Engineering,Mid,13.0,7,2.0,Low,0.996,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01523,Sales,Junior,9.0,10,5.0,Low,0.995,Performance Improvement Plan + mentor; increase training hours; check attendance / wellbeing
+EMP00268,Marketing,Mid,10.0,4,3.0,Low,0.995,Performance Improvement Plan + mentor; increase training hours
+EMP01143,Engineering,Lead,50.0,4,1.0,Low,0.995,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01537,Finance,Mid,7.0,6,1.0,Low,0.995,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01344,Engineering,Senior,29.0,3,3.0,Low,0.994,Performance Improvement Plan + mentor
+EMP00073,Engineering,Senior,7.0,5,3.0,Low,0.993,Performance Improvement Plan + mentor; increase training hours
+EMP01882,Engineering,Senior,21.0,5,1.0,Low,0.993,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01960,Operations,Senior,39.0,6,1.0,Low,0.993,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00215,Operations,Lead,37.0,6,1.0,Low,0.992,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00067,Engineering,Senior,32.0,8,1.0,Low,0.992,Performance Improvement Plan + mentor; check attendance / wellbeing; 1:1 engagement conversation
+EMP01536,Marketing,Junior,21.0,4,2.0,Low,0.992,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00187,Finance,Mid,24.0,8,2.0,Low,0.992,Performance Improvement Plan + mentor; check attendance / wellbeing; 1:1 engagement conversation
+EMP00898,Engineering,Junior,41.0,9,3.0,Low,0.991,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP01566,Sales,Lead,31.0,6,1.0,Low,0.991,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01287,Engineering,Senior,4.0,9,4.0,Low,0.991,Performance Improvement Plan + mentor; increase training hours; check attendance / wellbeing
+EMP01303,Engineering,Lead,21.0,4,1.0,Low,0.991,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01118,Engineering,Mid,19.0,5,1.0,Low,0.991,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01472,Support,Senior,14.0,6,3.0,Low,0.991,Performance Improvement Plan + mentor; increase training hours
+EMP00950,Marketing,Mid,31.0,3,1.0,Low,0.99,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01274,Engineering,Lead,19.0,7,2.0,Low,0.99,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00727,Support,Mid,27.0,8,2.0,Low,0.99,Performance Improvement Plan + mentor; check attendance / wellbeing; 1:1 engagement conversation
+EMP01800,Engineering,Mid,22.0,5,1.0,Low,0.99,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01808,Marketing,Senior,18.0,5,1.0,Low,0.989,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00176,Engineering,Lead,17.0,5,1.0,Low,0.989,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00701,Support,Senior,11.0,5,1.0,Low,0.988,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00630,Engineering,Mid,5.0,1,1.0,Low,0.988,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01324,HR,Lead,32.0,9,3.0,Low,0.988,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP00853,Sales,Lead,60.0,6,1.0,Low,0.988,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00135,Engineering,Senior,14.0,4,2.0,Low,0.988,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00659,Operations,Junior,18.0,10,4.0,Low,0.988,Performance Improvement Plan + mentor; increase training hours; check attendance / wellbeing; burnout risk - review workload
+EMP00548,Engineering,Senior,32.0,4,1.0,Low,0.987,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00639,Finance,Senior,24.0,6,2.0,Low,0.987,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00234,Support,Lead,33.0,6,2.0,Low,0.987,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01632,Operations,Senior,23.0,7,2.0,Low,0.987,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00542,Support,Junior,26.0,4,1.0,Low,0.987,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01866,Engineering,Senior,17.0,8,1.0,Low,0.987,Performance Improvement Plan + mentor; increase training hours; check attendance / wellbeing; 1:1 engagement conversation
+EMP00796,Marketing,Senior,34.0,6,3.0,Low,0.986,Performance Improvement Plan + mentor
+EMP00547,Engineering,Mid,32.0,8,4.0,Low,0.985,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP01072,Support,Mid,32.0,5,2.0,Low,0.985,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00758,Sales,Mid,26.0,9,3.0,Low,0.985,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP00991,Operations,Mid,47.0,7,2.0,Low,0.985,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00157,Marketing,Junior,35.0,8,1.0,Low,0.985,Performance Improvement Plan + mentor; check attendance / wellbeing; 1:1 engagement conversation
+EMP01393,Engineering,Lead,32.0,4,3.0,Low,0.985,Performance Improvement Plan + mentor
+EMP00160,Support,Senior,59.0,4,1.0,Low,0.985,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01531,Marketing,Junior,12.0,4,3.0,Low,0.985,Performance Improvement Plan + mentor; increase training hours
+EMP00374,Engineering,Senior,13.0,4,1.0,Low,0.985,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00824,Finance,Senior,40.0,8,2.0,Low,0.984,Performance Improvement Plan + mentor; check attendance / wellbeing; 1:1 engagement conversation
+EMP01564,Sales,Mid,18.0,5,2.0,Low,0.984,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01205,Finance,Senior,32.0,1,4.0,Low,0.983,Performance Improvement Plan + mentor
+EMP01680,Finance,Senior,24.0,5,1.0,Low,0.983,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01348,Marketing,Mid,9.0,2,1.0,Low,0.983,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00489,Marketing,Senior,21.0,3,1.0,Low,0.982,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01855,Finance,Junior,43.0,2,1.0,Low,0.982,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00646,Operations,Senior,22.0,4,1.0,Low,0.981,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00564,Finance,Senior,50.0,4,1.0,Low,0.981,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01410,Engineering,Senior,22.0,6,2.0,Low,0.981,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01836,Marketing,Mid,39.0,10,3.0,Low,0.981,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP01898,Finance,Lead,15.0,3,2.0,Low,0.981,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01226,Support,Lead,23.0,7,2.0,Low,0.981,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01049,Sales,Lead,32.0,13,3.0,Low,0.98,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP01664,Marketing,Lead,7.0,4,2.0,Low,0.98,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00974,Operations,Mid,32.0,7,2.0,Low,0.98,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01686,Engineering,Senior,48.0,12,2.0,Low,0.98,Performance Improvement Plan + mentor; check attendance / wellbeing; 1:1 engagement conversation
+EMP00163,Engineering,Junior,18.0,3,4.0,Low,0.98,Performance Improvement Plan + mentor; increase training hours
+EMP01244,Operations,Mid,20.0,5,1.0,Low,0.979,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00162,Engineering,Senior,29.0,7,1.0,Low,0.979,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00538,HR,Junior,38.0,5,1.0,Low,0.979,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00550,Marketing,Lead,23.0,9,4.0,Low,0.978,Performance Improvement Plan + mentor; check attendance / wellbeing; burnout risk - review workload
+EMP00810,HR,Senior,14.0,3,4.0,Low,0.978,Performance Improvement Plan + mentor; increase training hours
+EMP00249,Engineering,Senior,18.0,4,1.0,Low,0.978,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00021,Engineering,Lead,43.0,7,2.0,Low,0.978,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01542,Engineering,Senior,15.0,3,2.0,Low,0.978,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01892,Engineering,Mid,19.0,6,1.0,Low,0.976,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00808,Engineering,Junior,12.0,3,2.0,Low,0.976,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00027,Sales,Lead,21.0,6,1.0,Low,0.974,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01828,Sales,Senior,21.0,10,3.0,Low,0.974,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP00597,Sales,Lead,4.0,7,3.0,Low,0.973,Performance Improvement Plan + mentor; increase training hours
+EMP00694,Support,Senior,32.0,5,4.0,Low,0.973,Performance Improvement Plan + mentor
+EMP01056,Sales,Lead,18.0,2,1.0,Low,0.972,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01702,Sales,Mid,48.0,6,2.0,Low,0.971,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00665,Sales,Senior,20.0,3,2.0,Low,0.97,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00804,HR,Lead,13.0,3,1.0,Low,0.97,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01599,Finance,Senior,45.0,6,1.0,Low,0.969,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00383,Support,Lead,15.0,3,4.0,Low,0.969,Performance Improvement Plan + mentor; increase training hours
+EMP00725,Sales,Senior,21.0,4,1.0,Low,0.969,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01994,Finance,Senior,35.0,8,3.0,Low,0.969,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP00768,Operations,Lead,9.0,7,1.0,Low,0.969,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00421,Finance,Mid,15.0,2,3.0,Low,0.967,Performance Improvement Plan + mentor; increase training hours
+EMP01297,Support,Senior,25.0,6,3.0,Low,0.967,Performance Improvement Plan + mentor
+EMP00397,Engineering,Junior,32.0,6,2.0,Low,0.966,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01940,Finance,Senior,21.0,8,4.0,Low,0.966,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP01640,Marketing,Senior,9.0,7,4.0,Low,0.965,Performance Improvement Plan + mentor; increase training hours
+EMP01095,Sales,Senior,32.0,7,1.0,Low,0.965,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01357,Finance,Lead,28.0,8,2.0,Low,0.965,Performance Improvement Plan + mentor; check attendance / wellbeing; 1:1 engagement conversation
+EMP00765,Engineering,Senior,19.0,3,1.0,Low,0.964,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00124,Engineering,Senior,26.0,4,3.0,Low,0.964,Performance Improvement Plan + mentor
+EMP01726,Sales,Senior,12.0,6,1.0,Low,0.964,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00202,Engineering,Senior,41.0,7,4.0,Low,0.964,Performance Improvement Plan + mentor
+EMP01768,HR,Senior,45.0,7,2.0,Low,0.963,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01653,Support,Mid,15.0,5,2.0,Low,0.963,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01155,Finance,Mid,13.0,7,2.0,Low,0.962,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00862,Sales,Lead,28.0,2,2.0,Low,0.962,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01897,Marketing,Lead,7.0,3,3.0,Low,0.961,Performance Improvement Plan + mentor; increase training hours
+EMP01180,Engineering,Junior,19.0,5,2.0,Low,0.959,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01939,Support,Senior,65.0,7,2.0,Low,0.959,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01615,Engineering,Junior,9.0,6,3.0,Low,0.958,Performance Improvement Plan + mentor; increase training hours
+EMP01219,Engineering,Senior,26.0,3,1.0,Low,0.958,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00637,Operations,Senior,8.0,4,3.0,Low,0.957,Performance Improvement Plan + mentor; increase training hours
+EMP01711,Sales,Senior,15.0,6,5.0,Low,0.956,Performance Improvement Plan + mentor; increase training hours
+EMP00604,Sales,Mid,32.0,7,1.0,Low,0.956,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00749,Operations,Mid,26.0,2,3.0,Low,0.956,Performance Improvement Plan + mentor
+EMP00113,HR,Senior,22.0,3,1.0,Low,0.955,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01212,Support,Mid,61.0,6,4.0,Low,0.955,Performance Improvement Plan + mentor
+EMP01153,Engineering,Senior,18.0,6,1.0,Low,0.954,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00848,Operations,Junior,18.0,2,2.0,Low,0.954,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01354,Support,Mid,27.0,10,5.0,Low,0.954,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP00483,Engineering,Mid,20.0,8,2.0,Low,0.953,Performance Improvement Plan + mentor; check attendance / wellbeing; 1:1 engagement conversation
+EMP00037,Engineering,Senior,15.0,9,3.0,Low,0.953,Performance Improvement Plan + mentor; increase training hours; check attendance / wellbeing
+EMP01138,Engineering,Senior,28.0,6,3.0,Low,0.953,Performance Improvement Plan + mentor
+EMP00153,Finance,Senior,19.0,1,1.0,Low,0.953,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01626,Engineering,Mid,59.0,6,1.0,Low,0.952,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01937,Engineering,Senior,25.0,2,2.0,Low,0.952,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01914,Marketing,Senior,14.0,3,1.0,Low,0.952,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01603,Marketing,Lead,24.0,8,3.0,Low,0.951,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP00311,Sales,Senior,43.0,6,3.0,Low,0.951,Performance Improvement Plan + mentor
+EMP00612,Finance,Senior,25.0,2,1.0,Low,0.951,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01843,Engineering,Senior,27.0,4,5.0,Low,0.951,Performance Improvement Plan + mentor
+EMP01048,Finance,Mid,30.0,7,2.0,Low,0.95,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00539,Operations,Lead,16.0,6,2.0,Low,0.948,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00846,Engineering,Junior,18.0,4,2.0,Low,0.946,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01889,HR,Junior,35.0,6,3.0,Low,0.946,Performance Improvement Plan + mentor
+EMP01459,Sales,Senior,27.0,7,1.0,Low,0.946,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01712,Finance,Senior,18.0,4,2.0,Low,0.945,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01915,Support,Mid,22.0,4,3.0,Low,0.945,Performance Improvement Plan + mentor
+EMP01260,Sales,Mid,35.0,6,1.0,Low,0.944,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00514,Marketing,Senior,13.0,5,3.0,Low,0.943,Performance Improvement Plan + mentor; increase training hours
+EMP01881,Support,Lead,45.0,4,1.0,Low,0.942,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01430,Finance,Senior,38.0,7,1.0,Low,0.941,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01874,Support,Lead,9.0,5,1.0,Low,0.941,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00641,Support,Mid,24.0,2,1.0,Low,0.94,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00121,Sales,Lead,25.0,6,2.0,Low,0.94,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01751,HR,Lead,24.0,3,1.0,Low,0.939,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00058,Engineering,Junior,32.0,7,2.0,Low,0.939,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01139,Engineering,Senior,40.0,1,1.0,Low,0.939,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00773,Operations,Junior,9.0,4,1.0,Low,0.939,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01796,HR,Mid,30.0,3,2.0,Low,0.939,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01277,Operations,Senior,17.0,4,3.0,Low,0.938,Performance Improvement Plan + mentor; increase training hours
+EMP00126,Support,Senior,10.0,3,2.0,Low,0.938,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00832,Operations,Junior,26.0,7,1.0,Low,0.937,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01010,HR,Mid,4.0,6,3.0,Low,0.937,Performance Improvement Plan + mentor; increase training hours
+EMP01102,Support,Lead,39.0,3,1.0,Low,0.937,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00238,Operations,Lead,32.0,9,1.0,Low,0.936,Performance Improvement Plan + mentor; check attendance / wellbeing; 1:1 engagement conversation
+EMP01071,Support,Senior,7.0,4,1.0,Low,0.936,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01466,Support,Junior,36.0,5,2.0,Low,0.936,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00098,Engineering,Senior,39.0,5,1.0,Low,0.936,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00984,Operations,Senior,33.0,5,3.0,Low,0.936,Performance Improvement Plan + mentor
+EMP01257,Support,Mid,28.0,4,1.0,Low,0.935,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00503,Finance,Senior,27.0,5,3.0,Low,0.934,Performance Improvement Plan + mentor
+EMP01951,Finance,Senior,11.0,2,2.0,Low,0.934,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00904,Marketing,Lead,17.0,4,1.0,Low,0.933,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01347,Operations,Senior,39.0,5,2.0,Low,0.932,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01864,Finance,Junior,55.0,10,3.0,Low,0.932,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP01250,Operations,Senior,60.0,4,1.0,Low,0.932,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00417,Finance,Senior,12.0,5,3.0,Low,0.931,Performance Improvement Plan + mentor; increase training hours
+EMP01063,Finance,Mid,28.0,7,4.0,Low,0.931,Performance Improvement Plan + mentor
+EMP01660,Engineering,Senior,46.0,7,1.0,Low,0.929,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01229,Marketing,Junior,48.0,11,1.0,Low,0.929,Performance Improvement Plan + mentor; check attendance / wellbeing; 1:1 engagement conversation
+EMP01050,Sales,Mid,4.0,7,4.0,Low,0.929,Performance Improvement Plan + mentor; increase training hours
+EMP01880,Operations,Mid,4.0,4,2.0,Low,0.928,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00049,Sales,Senior,70.0,4,1.0,Low,0.925,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00237,Operations,Lead,9.0,5,1.0,Low,0.925,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00451,Support,Senior,33.0,7,3.0,Low,0.925,Performance Improvement Plan + mentor
+EMP00110,Engineering,Mid,15.0,8,2.0,Low,0.924,Performance Improvement Plan + mentor; increase training hours; check attendance / wellbeing; 1:1 engagement conversation
+EMP01553,Support,Lead,27.0,7,2.0,Low,0.923,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00219,Operations,Senior,23.0,4,2.0,Low,0.923,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01173,Engineering,Senior,24.0,10,1.0,Low,0.923,Performance Improvement Plan + mentor; check attendance / wellbeing; 1:1 engagement conversation
+EMP01706,Finance,Lead,32.0,4,2.0,Low,0.923,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00431,Operations,Junior,31.0,6,1.0,Low,0.923,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00920,Engineering,Lead,23.0,6,3.0,Low,0.923,Performance Improvement Plan + mentor
+EMP01637,Engineering,Mid,32.0,10,2.0,Low,0.921,Performance Improvement Plan + mentor; check attendance / wellbeing; 1:1 engagement conversation
+EMP00436,Marketing,Junior,26.0,5,2.0,Low,0.919,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00315,Engineering,Junior,6.0,7,5.0,Low,0.919,Performance Improvement Plan + mentor; increase training hours
+EMP01088,Marketing,Mid,9.0,5,5.0,Low,0.917,Performance Improvement Plan + mentor; increase training hours
+EMP01993,Engineering,Senior,19.0,4,2.0,Low,0.915,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00241,Operations,Junior,33.0,5,2.0,Low,0.914,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01068,Operations,Lead,55.0,8,3.0,Low,0.914,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP00570,Finance,Senior,9.0,5,3.0,Low,0.912,Performance Improvement Plan + mentor; increase training hours
+EMP01879,Operations,Lead,5.0,1,1.0,Low,0.911,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00133,Operations,Junior,50.0,3,2.0,Low,0.911,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00562,Support,Junior,34.0,7,3.0,Low,0.91,Performance Improvement Plan + mentor
+EMP01550,HR,Junior,24.0,6,2.0,Low,0.908,Performance Improvement Plan + mentor; 1:1 engagement conversation; burnout risk - review workload
+EMP00260,Operations,Senior,69.0,6,1.0,Low,0.908,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00807,Engineering,Senior,20.0,6,4.0,Low,0.907,Performance Improvement Plan + mentor
+EMP00306,Engineering,Junior,4.0,5,5.0,Low,0.905,Performance Improvement Plan + mentor; increase training hours
+EMP00226,Marketing,Lead,4.0,5,3.0,Low,0.905,Performance Improvement Plan + mentor; increase training hours
+EMP00015,Support,Senior,34.0,3,2.0,Low,0.905,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01040,Operations,Senior,26.0,8,2.0,Low,0.904,Performance Improvement Plan + mentor; check attendance / wellbeing; 1:1 engagement conversation
+EMP00828,Marketing,Mid,10.0,9,4.0,Low,0.903,Performance Improvement Plan + mentor; increase training hours; check attendance / wellbeing
+EMP01060,Support,Senior,11.0,5,3.0,Low,0.903,Performance Improvement Plan + mentor; increase training hours
+EMP00589,Finance,Lead,23.0,2,1.0,Low,0.902,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00382,Sales,Senior,26.0,6,2.0,Low,0.901,Performance Improvement Plan + mentor; 1:1 engagement conversation; burnout risk - review workload
+EMP01760,Marketing,Mid,42.0,5,2.0,Low,0.899,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01883,Marketing,Mid,47.0,7,1.0,Low,0.898,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01065,Sales,Senior,22.0,3,3.0,Low,0.898,Performance Improvement Plan + mentor
+EMP00526,Support,Senior,21.0,1,1.0,Low,0.897,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01322,Engineering,Senior,45.0,8,4.0,Low,0.896,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP00125,Engineering,Senior,19.0,7,2.0,Low,0.895,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01863,Sales,Lead,32.0,5,3.0,Low,0.895,Performance Improvement Plan + mentor
+EMP01777,Engineering,Mid,23.0,2,2.0,Low,0.893,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01807,Support,Junior,52.0,0,1.0,Low,0.892,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00720,Sales,Senior,24.0,4,2.0,Low,0.891,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00174,Sales,Senior,35.0,4,1.0,Low,0.891,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00997,Engineering,Lead,25.0,4,2.0,Low,0.89,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00319,Marketing,Lead,21.0,3,2.0,Low,0.89,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01294,Engineering,Junior,38.0,7,1.0,Low,0.89,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01666,Engineering,Senior,43.0,6,1.0,Low,0.89,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01508,Support,Senior,43.0,5,1.0,Low,0.889,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01400,Finance,Mid,30.0,5,4.0,Low,0.889,Performance Improvement Plan + mentor
+EMP00892,Operations,Lead,32.0,3,1.0,Low,0.886,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01029,Engineering,Mid,40.0,4,2.0,Low,0.885,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00616,Support,Lead,31.0,5,2.0,Low,0.885,Performance Improvement Plan + mentor; 1:1 engagement conversation; burnout risk - review workload
+EMP01062,Sales,Mid,41.0,3,1.0,Low,0.885,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00183,Sales,Lead,54.0,7,1.0,Low,0.884,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01668,Support,Mid,34.0,7,3.0,Low,0.884,Performance Improvement Plan + mentor
+EMP00696,Engineering,Mid,4.0,5,1.0,Low,0.879,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00797,Engineering,Senior,43.0,5,2.0,Low,0.879,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01659,Operations,Senior,26.0,5,3.0,Low,0.876,Performance Improvement Plan + mentor
+EMP01112,Operations,Junior,32.0,5,1.0,Low,0.875,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00284,Engineering,Lead,23.0,4,2.0,Low,0.874,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01156,Operations,Lead,7.0,4,3.0,Low,0.874,Performance Improvement Plan + mentor; increase training hours
+EMP01114,Support,Senior,49.0,7,2.0,Low,0.874,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00297,Operations,Mid,25.0,4,1.0,Low,0.872,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01188,Finance,Lead,24.0,6,4.0,Low,0.872,Performance Improvement Plan + mentor
+EMP01315,Marketing,Lead,17.0,5,2.0,Low,0.871,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00327,Sales,Junior,34.0,5,1.0,Low,0.871,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00348,Operations,Senior,40.0,1,2.0,Low,0.871,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01418,HR,Lead,16.0,4,1.0,Low,0.869,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01476,Operations,Mid,12.0,5,1.0,Low,0.869,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01821,Engineering,Mid,19.0,3,1.0,Low,0.869,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00208,Engineering,Mid,52.0,8,3.0,Low,0.868,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP00006,Engineering,Mid,6.0,5,2.0,Low,0.868,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01694,Operations,Senior,30.0,7,3.0,Low,0.867,Performance Improvement Plan + mentor
+EMP01511,Operations,Senior,48.0,7,2.0,Low,0.866,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01436,Engineering,Junior,33.0,8,3.0,Low,0.865,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP00650,Engineering,Mid,23.0,3,3.0,Low,0.864,Performance Improvement Plan + mentor
+EMP01320,Engineering,Senior,38.0,7,3.0,Low,0.864,Performance Improvement Plan + mentor
+EMP00952,Sales,Senior,7.0,9,1.0,Low,0.863,Performance Improvement Plan + mentor; increase training hours; check attendance / wellbeing; 1:1 engagement conversation
+EMP00090,Finance,Lead,17.0,4,2.0,Low,0.863,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01987,Support,Lead,29.0,1,1.0,Low,0.862,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01435,Operations,Senior,32.0,6,1.0,Low,0.862,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01810,Finance,Senior,9.0,4,2.0,Low,0.858,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00403,Engineering,Lead,7.0,10,5.0,Low,0.855,Performance Improvement Plan + mentor; increase training hours; check attendance / wellbeing
+EMP00011,Support,Mid,8.0,5,2.0,Low,0.855,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00935,Operations,Senior,17.0,7,1.0,Low,0.853,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00347,Marketing,Senior,16.0,3,2.0,Low,0.853,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01171,Marketing,Senior,38.0,5,1.0,Low,0.851,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00840,Sales,Senior,20.0,7,3.0,Low,0.85,Performance Improvement Plan + mentor
+EMP01130,Support,Mid,9.0,1,1.0,Low,0.85,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01899,Marketing,Senior,24.0,3,3.0,Low,0.848,Performance Improvement Plan + mentor
+EMP00900,Engineering,Lead,27.0,4,2.0,Low,0.846,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00280,Engineering,Junior,61.0,3,1.0,Low,0.846,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01658,Support,Mid,30.0,2,1.0,Low,0.845,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00081,Support,Lead,21.0,4,2.0,Low,0.845,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01574,Sales,Lead,16.0,3,1.0,Low,0.845,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01858,Sales,Lead,27.0,7,2.0,Low,0.844,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01775,Operations,Lead,13.0,4,2.0,Low,0.844,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00325,Operations,Mid,21.0,9,3.0,Low,0.841,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP00887,Sales,Junior,30.0,2,2.0,Low,0.841,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00253,Finance,Senior,35.0,8,4.0,Low,0.84,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP01332,Engineering,Lead,17.0,4,2.0,Low,0.839,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01022,Sales,Junior,24.0,4,2.0,Low,0.837,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01917,Support,Lead,28.0,5,1.0,Low,0.835,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01733,HR,Senior,23.0,5,2.0,Low,0.834,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01635,Operations,Mid,19.0,7,4.0,Low,0.833,Performance Improvement Plan + mentor; increase training hours
+EMP01958,Support,Senior,19.0,7,5.0,Low,0.829,Performance Improvement Plan + mentor; increase training hours
+EMP01936,Operations,Mid,29.0,7,1.0,Low,0.829,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01235,Sales,Senior,38.0,6,2.0,Low,0.829,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00964,Operations,Junior,14.0,7,1.0,Low,0.828,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01094,Finance,Mid,32.0,4,1.0,Low,0.828,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01107,Sales,Mid,20.0,3,2.0,Low,0.827,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00816,Support,Senior,52.0,5,2.0,Low,0.826,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00274,Engineering,Senior,47.0,4,3.0,Low,0.824,Performance Improvement Plan + mentor
+EMP01629,Operations,Senior,13.0,4,2.0,Low,0.823,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00499,Engineering,Senior,23.0,5,1.0,Low,0.822,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01178,Engineering,Junior,11.0,7,1.0,Low,0.821,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00534,Engineering,Mid,36.0,5,2.0,Low,0.82,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00793,Engineering,Senior,25.0,2,1.0,Low,0.817,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00358,Support,Senior,31.0,6,5.0,Low,0.817,Performance Improvement Plan + mentor
+EMP01503,Finance,Mid,42.0,5,2.0,Low,0.816,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00052,Operations,Mid,13.0,4,1.0,Low,0.816,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01278,Support,Senior,17.0,2,3.0,Low,0.813,Performance Improvement Plan + mentor; increase training hours
+EMP01703,Finance,Senior,27.0,3,2.0,Low,0.813,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00008,Engineering,Senior,32.0,4,4.0,Low,0.811,Performance Improvement Plan + mentor
+EMP01487,Engineering,Junior,13.0,8,3.0,Low,0.81,Performance Improvement Plan + mentor; increase training hours; check attendance / wellbeing
+EMP01116,Operations,Senior,18.0,3,2.0,Low,0.81,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01220,Support,Lead,45.0,3,1.0,Low,0.806,Performance Improvement Plan + mentor; 1:1 engagement conversation; burnout risk - review workload
+EMP00967,Sales,Lead,17.0,3,2.0,Low,0.806,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01636,Engineering,Senior,56.0,5,1.0,Low,0.806,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00590,Sales,Lead,30.0,3,1.0,Low,0.805,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01201,Sales,Senior,31.0,7,2.0,Low,0.804,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01750,Marketing,Lead,34.0,4,4.0,Low,0.803,Performance Improvement Plan + mentor
+EMP00294,Engineering,Mid,35.0,5,3.0,Low,0.802,Performance Improvement Plan + mentor
+EMP00928,HR,Mid,17.0,3,5.0,Low,0.8,Performance Improvement Plan + mentor; increase training hours
+EMP00777,Sales,Mid,41.0,9,2.0,Low,0.798,Performance Improvement Plan + mentor; check attendance / wellbeing; 1:1 engagement conversation
+EMP01103,Engineering,Lead,34.0,5,3.0,Low,0.797,Performance Improvement Plan + mentor
+EMP00857,Finance,Senior,20.0,3,2.0,Low,0.797,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00858,HR,Junior,24.0,5,2.0,Low,0.796,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00839,Sales,Junior,18.0,4,5.0,Low,0.794,Performance Improvement Plan + mentor; increase training hours
+EMP01801,Sales,Junior,26.0,6,5.0,Low,0.794,Performance Improvement Plan + mentor
+EMP00056,Engineering,Junior,25.0,8,1.0,Low,0.788,Performance Improvement Plan + mentor; check attendance / wellbeing; 1:1 engagement conversation
+EMP01288,Operations,Mid,12.0,4,2.0,Low,0.787,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00231,Sales,Lead,13.0,4,1.0,Low,0.787,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01097,Marketing,Mid,32.0,3,1.0,Low,0.785,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01381,Sales,Lead,44.0,6,1.0,Low,0.783,Performance Improvement Plan + mentor; 1:1 engagement conversation; burnout risk - review workload
+EMP01854,Finance,Junior,19.0,4,3.0,Low,0.783,Performance Improvement Plan + mentor; increase training hours
+EMP00905,Operations,Lead,11.0,5,1.0,Low,0.783,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01700,Sales,Senior,29.0,3,4.0,Low,0.78,Performance Improvement Plan + mentor
+EMP00345,Operations,Senior,15.0,7,3.0,Low,0.778,Performance Improvement Plan + mentor; increase training hours
+EMP01444,Engineering,Mid,25.0,4,2.0,Low,0.776,Performance Improvement Plan + mentor; 1:1 engagement conversation; burnout risk - review workload
+EMP00341,Marketing,Senior,22.0,2,1.0,Low,0.776,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01375,Engineering,Senior,40.0,6,3.0,Low,0.775,Performance Improvement Plan + mentor
+EMP00065,Operations,Lead,37.0,2,3.0,Low,0.775,Performance Improvement Plan + mentor
+EMP01911,Operations,Mid,10.0,4,2.0,Low,0.774,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00619,Engineering,Junior,27.0,6,4.0,Low,0.774,Performance Improvement Plan + mentor; burnout risk - review workload
+EMP01092,Engineering,Mid,22.0,6,3.0,Low,0.772,Performance Improvement Plan + mentor
+EMP01218,Engineering,Lead,4.0,5,3.0,Low,0.772,Performance Improvement Plan + mentor; increase training hours
+EMP00996,Engineering,Senior,41.0,6,2.0,Low,0.768,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01247,Engineering,Lead,63.0,4,2.0,Low,0.767,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01545,Support,Mid,50.0,5,4.0,Low,0.767,Performance Improvement Plan + mentor
+EMP00312,Marketing,Senior,27.0,2,3.0,Low,0.767,Performance Improvement Plan + mentor
+EMP00458,Engineering,Lead,12.0,5,2.0,Low,0.767,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00512,Support,Lead,51.0,4,2.0,Low,0.766,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00270,Sales,Mid,32.0,5,3.0,Low,0.765,Performance Improvement Plan + mentor
+EMP00267,Finance,Senior,24.0,2,2.0,Low,0.764,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00107,Finance,Lead,21.0,6,3.0,Low,0.764,Performance Improvement Plan + mentor
+EMP01067,Engineering,Lead,49.0,10,2.0,Low,0.763,Performance Improvement Plan + mentor; check attendance / wellbeing; 1:1 engagement conversation
+EMP01187,Engineering,Junior,24.0,8,4.0,Low,0.762,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP00414,Finance,Junior,38.0,5,2.0,Low,0.762,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00826,Finance,Junior,31.0,2,3.0,Low,0.762,Performance Improvement Plan + mentor
+EMP01856,Finance,Senior,32.0,4,4.0,Low,0.762,Performance Improvement Plan + mentor
+EMP01237,Engineering,Mid,25.0,3,2.0,Low,0.761,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00876,Support,Mid,32.0,7,4.0,Low,0.759,Performance Improvement Plan + mentor
+EMP00079,Support,Senior,51.0,4,2.0,Low,0.757,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00409,Operations,Senior,17.0,8,2.0,Low,0.757,Performance Improvement Plan + mentor; increase training hours; check attendance / wellbeing; 1:1 engagement conversation
+EMP00141,Sales,Lead,42.0,5,4.0,Low,0.757,Performance Improvement Plan + mentor
+EMP01264,Engineering,Senior,41.0,3,1.0,Low,0.755,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00462,Support,Junior,18.0,1,3.0,Low,0.753,Performance Improvement Plan + mentor; increase training hours
+EMP00485,Finance,Mid,26.0,1,3.0,Low,0.751,Performance Improvement Plan + mentor
+EMP01232,Sales,Senior,6.0,9,3.0,Low,0.751,Performance Improvement Plan + mentor; increase training hours; check attendance / wellbeing
+EMP01045,Operations,Lead,31.0,3,3.0,Low,0.749,Performance Improvement Plan + mentor
+EMP00340,Marketing,Senior,36.0,5,3.0,Low,0.749,Performance Improvement Plan + mentor
+EMP00129,Engineering,Senior,21.0,6,2.0,Low,0.748,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01709,Sales,Senior,5.0,4,4.0,Low,0.747,Performance Improvement Plan + mentor; increase training hours
+EMP01236,HR,Senior,17.0,4,2.0,Low,0.746,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00092,Engineering,Senior,32.0,8,3.0,Low,0.746,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP00802,Operations,Junior,36.0,5,5.0,Low,0.745,Performance Improvement Plan + mentor
+EMP00232,Engineering,Senior,32.0,4,4.0,Low,0.744,Performance Improvement Plan + mentor
+EMP00815,Operations,Mid,36.0,2,2.0,Low,0.742,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01214,Finance,Mid,32.0,3,2.0,Low,0.742,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01490,Engineering,Lead,16.0,4,3.0,Low,0.742,Performance Improvement Plan + mentor; increase training hours
+EMP01034,Engineering,Mid,11.0,3,2.0,Low,0.742,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00041,Engineering,Junior,49.0,4,1.0,Low,0.742,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01670,Engineering,Senior,35.0,5,1.0,Low,0.741,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01682,Operations,Junior,71.0,7,3.0,Low,0.741,Performance Improvement Plan + mentor
+EMP01396,Engineering,Mid,15.0,5,5.0,Low,0.733,Performance Improvement Plan + mentor; increase training hours
+EMP00866,Operations,Senior,10.0,6,5.0,Low,0.732,Performance Improvement Plan + mentor; increase training hours
+EMP01888,Engineering,Senior,21.0,5,3.0,Low,0.731,Performance Improvement Plan + mentor
+EMP00469,Finance,Junior,38.0,5,2.0,Low,0.731,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01261,Operations,Senior,27.0,5,2.0,Low,0.73,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00366,Marketing,Lead,12.0,7,2.0,Low,0.725,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00682,Operations,Mid,6.0,4,3.0,Low,0.722,Performance Improvement Plan + mentor; increase training hours
+EMP01586,Operations,Senior,14.0,5,3.0,Low,0.722,Performance Improvement Plan + mentor; increase training hours
+EMP01300,Operations,Junior,33.0,5,4.0,Low,0.721,Performance Improvement Plan + mentor
+EMP01283,Marketing,Senior,18.0,4,2.0,Low,0.721,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00380,Marketing,Senior,7.0,4,5.0,Low,0.72,Performance Improvement Plan + mentor; increase training hours
+EMP00039,HR,Senior,32.0,3,3.0,Low,0.717,Performance Improvement Plan + mentor
+EMP00407,Operations,Lead,8.0,2,1.0,Low,0.716,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00540,Engineering,Junior,31.0,5,2.0,Low,0.714,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00057,Operations,Senior,17.0,10,4.0,Low,0.712,Performance Improvement Plan + mentor; increase training hours; check attendance / wellbeing; burnout risk - review workload
+EMP00744,Marketing,Mid,31.0,8,5.0,Low,0.711,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP00446,Sales,Lead,20.0,4,1.0,Low,0.708,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00893,Operations,Mid,14.0,6,4.0,Low,0.706,Performance Improvement Plan + mentor; increase training hours
+EMP00579,Marketing,Senior,16.0,1,1.0,Low,0.704,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00171,Sales,Mid,27.0,2,1.0,Low,0.703,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01154,Finance,Senior,16.0,2,1.0,Low,0.701,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01764,Finance,Lead,39.0,5,1.0,Low,0.699,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01747,Engineering,Senior,38.0,5,1.0,Low,0.699,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00412,Operations,Senior,31.0,1,5.0,Low,0.699,Performance Improvement Plan + mentor
+EMP01224,HR,Senior,11.0,1,1.0,Low,0.698,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01919,Marketing,Lead,47.0,8,5.0,Low,0.698,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP00713,Support,Lead,38.0,5,5.0,Low,0.697,Performance Improvement Plan + mentor
+EMP01170,Sales,Lead,54.0,6,3.0,Low,0.696,Performance Improvement Plan + mentor
+EMP00463,Engineering,Mid,53.0,5,1.0,Low,0.696,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01530,Engineering,Senior,19.0,6,1.0,Low,0.696,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00737,Operations,Lead,31.0,4,3.0,Low,0.695,Performance Improvement Plan + mentor
+EMP00165,Finance,Senior,47.0,7,2.0,Low,0.694,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00844,Marketing,Junior,27.0,3,1.0,Low,0.694,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00504,Engineering,Lead,52.0,4,1.0,Low,0.693,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00965,Operations,Senior,26.0,4,2.0,Low,0.693,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01403,Engineering,Lead,17.0,6,2.0,Low,0.692,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01601,Engineering,Mid,58.0,4,1.0,Low,0.689,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00917,Engineering,Lead,38.0,6,2.0,Low,0.686,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00569,Support,Senior,38.0,4,3.0,Low,0.686,Performance Improvement Plan + mentor
+EMP01944,Operations,Junior,35.0,8,5.0,Low,0.686,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP00529,Sales,Senior,16.0,3,3.0,Low,0.683,Performance Improvement Plan + mentor; increase training hours
+EMP00697,Support,Senior,53.0,6,1.0,Low,0.682,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01784,Sales,Senior,19.0,9,1.0,Low,0.681,Performance Improvement Plan + mentor; increase training hours; check attendance / wellbeing; 1:1 engagement conversation
+EMP00296,Operations,Senior,12.0,5,4.0,Low,0.681,Performance Improvement Plan + mentor; increase training hours
+EMP01080,Engineering,Mid,54.0,8,3.0,Low,0.681,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP01998,Engineering,Lead,36.0,3,2.0,Low,0.68,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00794,HR,Senior,31.0,5,3.0,Low,0.679,Performance Improvement Plan + mentor
+EMP00262,Support,Junior,37.0,4,1.0,Low,0.678,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00760,Operations,Senior,39.0,2,2.0,Low,0.677,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01442,Operations,Senior,26.0,6,2.0,Low,0.674,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00168,Sales,Mid,34.0,2,3.0,Low,0.671,Performance Improvement Plan + mentor
+EMP01551,Engineering,Senior,18.0,1,2.0,Low,0.67,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01593,Finance,Mid,33.0,2,1.0,Low,0.67,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01211,Sales,Lead,97.0,6,1.0,Low,0.67,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00618,Finance,Mid,15.0,2,1.0,Low,0.669,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01059,Finance,Senior,9.0,1,2.0,Low,0.668,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00582,Engineering,Mid,17.0,3,3.0,Low,0.668,Performance Improvement Plan + mentor; increase training hours
+EMP01036,Support,Senior,53.0,4,2.0,Low,0.667,Performance Improvement Plan + mentor; 1:1 engagement conversation; burnout risk - review workload
+EMP01904,Sales,Junior,16.0,3,3.0,Low,0.667,Performance Improvement Plan + mentor; increase training hours
+EMP01982,Engineering,Senior,22.0,3,4.0,Low,0.666,Performance Improvement Plan + mentor
+EMP01918,Sales,Senior,11.0,7,3.0,Low,0.661,Performance Improvement Plan + mentor; increase training hours
+EMP00798,Engineering,Senior,18.0,3,4.0,Low,0.661,Performance Improvement Plan + mentor; increase training hours
+EMP01317,Support,Senior,27.0,5,3.0,Low,0.66,Performance Improvement Plan + mentor
+EMP00860,Sales,Senior,32.0,4,3.0,Low,0.66,Performance Improvement Plan + mentor
+EMP00632,Engineering,Lead,5.0,4,3.0,Low,0.658,Performance Improvement Plan + mentor; increase training hours
+EMP00730,HR,Senior,21.0,4,1.0,Low,0.656,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00495,Operations,Mid,51.0,4,3.0,Low,0.655,Performance Improvement Plan + mentor
+EMP00993,Sales,Junior,9.0,5,1.0,Low,0.652,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00731,Engineering,Senior,35.0,5,5.0,Low,0.649,Performance Improvement Plan + mentor
+EMP00130,Marketing,Senior,83.0,4,1.0,Low,0.645,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00890,Finance,Mid,27.0,4,3.0,Low,0.644,Performance Improvement Plan + mentor
+EMP01681,Operations,Senior,42.0,3,1.0,Low,0.643,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00309,Finance,Mid,17.0,2,1.0,Low,0.642,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00406,Sales,Senior,51.0,7,2.0,Low,0.64,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01386,Engineering,Mid,26.0,3,1.0,Low,0.636,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01736,Engineering,Mid,26.0,3,1.0,Low,0.635,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01073,Sales,Lead,40.0,7,2.0,Low,0.632,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00473,Engineering,Senior,14.0,2,3.0,Low,0.632,Performance Improvement Plan + mentor; increase training hours
+EMP01967,Support,Mid,3.0,4,2.0,Low,0.632,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00911,Engineering,Mid,40.0,2,2.0,Low,0.632,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00020,Operations,Senior,23.0,5,3.0,Low,0.63,Performance Improvement Plan + mentor
+EMP00493,Engineering,Mid,83.0,7,1.0,Low,0.63,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01922,Engineering,Lead,29.0,3,1.0,Low,0.627,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01488,Sales,Junior,57.0,4,4.0,Low,0.627,Performance Improvement Plan + mentor
+EMP00519,Sales,Mid,17.0,6,1.0,Low,0.626,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01559,Operations,Senior,14.0,3,3.0,Low,0.622,Performance Improvement Plan + mentor; increase training hours
+EMP00505,Sales,Mid,24.0,5,2.0,Low,0.622,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01901,Marketing,Mid,13.0,3,3.0,Low,0.619,Performance Improvement Plan + mentor; increase training hours
+EMP00806,Engineering,Senior,30.0,5,3.0,Low,0.619,Performance Improvement Plan + mentor
+EMP00455,Operations,Lead,24.0,5,2.0,Low,0.618,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00131,Operations,Senior,30.0,6,4.0,Low,0.618,Performance Improvement Plan + mentor
+EMP01909,Finance,Junior,13.0,5,4.0,Low,0.617,Performance Improvement Plan + mentor; increase training hours
+EMP00924,Marketing,Mid,16.0,2,1.0,Low,0.616,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00695,Engineering,Mid,63.0,4,3.0,Low,0.615,Performance Improvement Plan + mentor
+EMP01978,Sales,Senior,41.0,3,1.0,Low,0.614,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00106,Finance,Senior,10.0,3,2.0,Low,0.614,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00831,Engineering,Mid,45.0,4,1.0,Low,0.613,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00688,Sales,Senior,30.0,4,4.0,Low,0.612,Performance Improvement Plan + mentor
+EMP01281,HR,Lead,41.0,3,1.0,Low,0.608,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00689,Support,Mid,61.0,2,4.0,Low,0.608,Performance Improvement Plan + mentor
+EMP01701,Support,Senior,80.0,8,1.0,Low,0.608,Performance Improvement Plan + mentor; check attendance / wellbeing; 1:1 engagement conversation
+EMP01408,Operations,Lead,14.0,4,2.0,Low,0.606,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00216,HR,Junior,37.0,3,4.0,Low,0.606,Performance Improvement Plan + mentor
+EMP00933,Engineering,Mid,32.0,5,2.0,Low,0.605,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01106,Engineering,Junior,32.0,4,1.0,Low,0.605,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01359,Sales,Mid,26.0,4,2.0,Low,0.604,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00468,Sales,Senior,46.0,5,2.0,Low,0.604,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01268,HR,Senior,40.0,4,3.0,Low,0.603,Performance Improvement Plan + mentor
+EMP00452,Support,Senior,52.0,7,5.0,Low,0.6,Performance Improvement Plan + mentor
+EMP00115,Engineering,Mid,14.0,6,4.0,Low,0.6,Performance Improvement Plan + mentor; increase training hours
+EMP01378,Engineering,Mid,32.0,2,2.0,Low,0.598,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01841,HR,Senior,14.0,3,3.0,Low,0.596,Performance Improvement Plan + mentor; increase training hours
+EMP00242,Finance,Lead,21.0,3,3.0,Low,0.596,Performance Improvement Plan + mentor
+EMP00448,Engineering,Lead,13.0,5,3.0,Low,0.593,Performance Improvement Plan + mentor; increase training hours
+EMP01578,HR,Lead,28.0,3,2.0,Low,0.59,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01210,Sales,Senior,53.0,3,1.0,Low,0.59,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00476,Sales,Senior,23.0,1,4.0,Low,0.588,Performance Improvement Plan + mentor
+EMP01024,Operations,Lead,34.0,6,2.0,Low,0.586,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01555,HR,Senior,35.0,3,2.0,Low,0.585,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00780,HR,Lead,25.0,3,1.0,Low,0.585,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01519,Sales,Mid,15.0,3,3.0,Low,0.584,Performance Improvement Plan + mentor; increase training hours
+EMP00086,Finance,Senior,39.0,2,1.0,Low,0.583,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01417,Engineering,Lead,54.0,1,2.0,Low,0.583,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00998,Sales,Senior,32.0,6,1.0,Low,0.583,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00941,Engineering,Mid,4.0,5,2.0,Low,0.582,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00959,Support,Mid,21.0,2,1.0,Low,0.58,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01928,Finance,Mid,37.0,5,1.0,Low,0.579,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01585,Engineering,Lead,16.0,5,3.0,Low,0.577,Performance Improvement Plan + mentor; increase training hours
+EMP00640,HR,Senior,22.0,7,3.0,Low,0.577,Performance Improvement Plan + mentor
+EMP01697,Finance,Junior,18.0,3,2.0,Low,0.577,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01445,Engineering,Senior,47.0,2,2.0,Low,0.576,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01167,HR,Junior,32.0,10,4.0,Low,0.575,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP01265,Support,Senior,28.0,3,2.0,Low,0.572,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00822,Finance,Lead,55.0,7,1.0,Low,0.572,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01780,HR,Mid,31.0,7,4.0,Low,0.57,Performance Improvement Plan + mentor
+EMP00257,Engineering,Lead,27.0,4,4.0,Low,0.57,Performance Improvement Plan + mentor
+EMP01405,Finance,Mid,37.0,4,4.0,Low,0.569,Performance Improvement Plan + mentor
+EMP00743,Finance,Lead,17.0,6,3.0,Low,0.568,Performance Improvement Plan + mentor; increase training hours
+EMP01504,HR,Senior,38.0,1,1.0,Low,0.568,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01039,Engineering,Lead,75.0,9,2.0,Low,0.566,Performance Improvement Plan + mentor; check attendance / wellbeing; 1:1 engagement conversation
+EMP01054,Engineering,Senior,69.0,7,2.0,Low,0.565,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00290,Sales,Senior,17.0,4,5.0,Low,0.565,Performance Improvement Plan + mentor; increase training hours
+EMP01598,Support,Lead,31.0,8,3.0,Low,0.564,Performance Improvement Plan + mentor; check attendance / wellbeing
+EMP01109,Marketing,Mid,27.0,6,4.0,Low,0.563,Performance Improvement Plan + mentor
+EMP00614,Engineering,Senior,46.0,4,1.0,Low,0.562,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01355,Engineering,Mid,21.0,3,2.0,Low,0.561,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00053,Engineering,Lead,29.0,5,2.0,Low,0.554,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01142,Marketing,Mid,44.0,1,2.0,Low,0.553,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01083,Sales,Senior,42.0,6,1.0,Low,0.551,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00740,Engineering,Lead,25.0,6,4.0,Low,0.549,Performance Improvement Plan + mentor
+EMP01380,Finance,Senior,47.0,5,2.0,Low,0.543,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01634,Engineering,Senior,11.0,5,4.0,Low,0.542,Performance Improvement Plan + mentor; increase training hours
+EMP00308,Operations,Lead,11.0,4,4.0,Low,0.54,Performance Improvement Plan + mentor; increase training hours
+EMP00884,Operations,Junior,34.0,3,3.0,Low,0.538,Performance Improvement Plan + mentor
+EMP00132,Engineering,Senior,30.0,4,1.0,Low,0.536,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00050,Support,Mid,22.0,2,2.0,Low,0.534,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00742,Marketing,Mid,74.0,2,1.0,Low,0.534,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00173,Support,Senior,12.0,4,5.0,Low,0.532,Performance Improvement Plan + mentor; increase training hours
+EMP00508,Finance,Mid,47.0,6,3.0,Low,0.528,Performance Improvement Plan + mentor
+EMP01031,Operations,Lead,38.0,5,1.0,Low,0.527,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01337,Sales,Mid,67.0,5,2.0,Low,0.526,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00298,Engineering,Senior,25.0,6,2.0,Low,0.521,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01785,Support,Senior,21.0,5,4.0,Low,0.521,Performance Improvement Plan + mentor
+EMP00661,Engineering,Mid,39.0,1,2.0,Low,0.521,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00029,Sales,Lead,19.0,4,1.0,Low,0.52,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01271,Sales,Senior,27.0,2,1.0,Low,0.519,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00437,Sales,Mid,22.0,1,1.0,Low,0.518,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00982,Sales,Senior,44.0,6,1.0,Low,0.517,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01570,Operations,Senior,8.0,5,3.0,Low,0.517,Performance Improvement Plan + mentor; increase training hours
+EMP01340,Engineering,Lead,36.0,5,2.0,Low,0.512,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00433,Sales,Senior,14.0,3,1.0,Low,0.512,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP01517,Engineering,Senior,46.0,4,1.0,Low,0.511,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00416,Sales,Lead,13.0,5,3.0,Low,0.509,Performance Improvement Plan + mentor; increase training hours
+EMP01144,Engineering,Senior,11.0,4,3.0,Low,0.508,Performance Improvement Plan + mentor; increase training hours
+EMP01486,Support,Lead,21.0,1,1.0,Low,0.507,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP01875,Engineering,Lead,17.0,4,1.0,Low,0.505,Performance Improvement Plan + mentor; increase training hours; 1:1 engagement conversation
+EMP00530,Support,Lead,56.0,2,3.0,Low,0.502,Performance Improvement Plan + mentor
+EMP01929,Engineering,Junior,60.0,4,1.0,Low,0.502,Performance Improvement Plan + mentor; 1:1 engagement conversation
+EMP00801,Sales,Junior,40.0,9,2.0,Low,0.5,Performance Improvement Plan + mentor; check attendance / wellbeing; 1:1 engagement conversation
+EMP01560,Support,Lead,43.0,5,3.0,Low,0.491,Performance Improvement Plan + mentor

@@ -1,0 +1,426 @@
+employee_id,department,job_level,training_hours,absences,job_satisfaction,predicted_category,confidence,hr_recommendation
+EMP00099,HR,Senior,88.0,0,5.0,High,1.0,Promotion / leadership-track candidate
+EMP00392,Support,Junior,43.0,4,5.0,High,1.0,Promotion / leadership-track candidate
+EMP00750,Engineering,Mid,122.0,4,4.0,High,1.0,Promotion / leadership-track candidate
+EMP00272,Support,Junior,14.0,3,4.0,High,1.0,Promotion / leadership-track candidate; increase training hours
+EMP01384,Operations,Mid,68.0,2,5.0,High,1.0,Promotion / leadership-track candidate
+EMP01704,Operations,Senior,81.0,2,5.0,High,1.0,Promotion / leadership-track candidate
+EMP01199,Engineering,Senior,104.0,5,5.0,High,1.0,Promotion / leadership-track candidate
+EMP01160,Sales,Mid,88.0,2,4.0,High,1.0,Promotion / leadership-track candidate
+EMP00576,Sales,Lead,124.0,1,4.0,High,1.0,Promotion / leadership-track candidate
+EMP01869,Engineering,Junior,56.0,2,2.0,High,1.0,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00156,Finance,Senior,127.0,3,5.0,High,1.0,Promotion / leadership-track candidate; burnout risk - review workload
+EMP00424,Engineering,Senior,85.0,1,4.0,High,1.0,Promotion / leadership-track candidate
+EMP01618,Marketing,Lead,134.0,4,3.0,High,1.0,Promotion / leadership-track candidate
+EMP01690,Engineering,Senior,84.0,1,5.0,High,1.0,Promotion / leadership-track candidate
+EMP00170,Sales,Junior,60.0,4,5.0,High,1.0,Promotion / leadership-track candidate
+EMP00465,Engineering,Junior,27.0,3,5.0,High,1.0,Promotion / leadership-track candidate
+EMP00886,HR,Senior,68.0,0,5.0,High,1.0,Promotion / leadership-track candidate
+EMP00784,Engineering,Junior,25.0,0,3.0,High,1.0,Promotion / leadership-track candidate
+EMP00001,Engineering,Junior,71.0,1,4.0,High,1.0,Promotion / leadership-track candidate
+EMP00663,Support,Junior,38.0,5,5.0,High,0.999,Promotion / leadership-track candidate
+EMP00518,Engineering,Junior,99.0,2,5.0,High,0.999,Promotion / leadership-track candidate
+EMP00821,Operations,Junior,50.0,5,5.0,High,0.999,Promotion / leadership-track candidate
+EMP01556,Engineering,Junior,19.0,4,5.0,High,0.999,Promotion / leadership-track candidate; increase training hours
+EMP00983,Operations,Lead,98.0,1,5.0,High,0.999,Promotion / leadership-track candidate
+EMP00753,Operations,Junior,54.0,1,5.0,High,0.999,Promotion / leadership-track candidate
+EMP01691,Engineering,Lead,71.0,0,5.0,High,0.999,Promotion / leadership-track candidate
+EMP00757,Marketing,Mid,110.0,3,5.0,High,0.999,Promotion / leadership-track candidate
+EMP01797,Finance,Mid,91.0,3,5.0,High,0.999,Promotion / leadership-track candidate
+EMP00901,Finance,Junior,18.0,2,3.0,High,0.999,Promotion / leadership-track candidate; increase training hours
+EMP00091,Sales,Lead,20.0,2,5.0,High,0.999,Promotion / leadership-track candidate
+EMP01185,Engineering,Lead,60.0,3,5.0,High,0.999,Promotion / leadership-track candidate
+EMP00976,Operations,Mid,43.0,0,4.0,High,0.999,Promotion / leadership-track candidate
+EMP01412,Marketing,Lead,103.0,2,5.0,High,0.999,Promotion / leadership-track candidate
+EMP00331,Support,Senior,48.0,2,5.0,High,0.999,Promotion / leadership-track candidate
+EMP00588,Marketing,Mid,46.0,0,4.0,High,0.998,Promotion / leadership-track candidate
+EMP00457,Marketing,Senior,23.0,1,5.0,High,0.998,Promotion / leadership-track candidate
+EMP01251,Finance,Mid,56.0,3,4.0,High,0.998,Promotion / leadership-track candidate
+EMP01684,Finance,Mid,44.0,2,5.0,High,0.998,Promotion / leadership-track candidate
+EMP00615,Engineering,Senior,46.0,1,4.0,High,0.998,Promotion / leadership-track candidate
+EMP00645,Engineering,Senior,55.0,2,4.0,High,0.998,Promotion / leadership-track candidate
+EMP01193,Engineering,Junior,26.0,1,5.0,High,0.998,Promotion / leadership-track candidate
+EMP00889,Engineering,Junior,84.0,2,5.0,High,0.998,Promotion / leadership-track candidate
+EMP01479,Operations,Senior,34.0,3,2.0,High,0.998,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01216,Operations,Junior,61.0,2,3.0,High,0.998,Promotion / leadership-track candidate
+EMP00769,Finance,Mid,90.0,1,1.0,High,0.998,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01008,Operations,Senior,32.0,3,4.0,High,0.998,Promotion / leadership-track candidate
+EMP01647,Support,Senior,78.0,5,4.0,High,0.998,Promotion / leadership-track candidate
+EMP00970,Sales,Junior,38.0,2,5.0,High,0.998,Promotion / leadership-track candidate
+EMP00800,Finance,Senior,76.0,4,3.0,High,0.997,Promotion / leadership-track candidate
+EMP01290,Finance,Senior,56.0,6,5.0,High,0.997,Promotion / leadership-track candidate
+EMP01782,Marketing,Senior,52.0,0,3.0,High,0.997,Promotion / leadership-track candidate
+EMP00953,Engineering,Lead,32.0,4,5.0,High,0.997,Promotion / leadership-track candidate; burnout risk - review workload
+EMP00389,Sales,Senior,118.0,2,4.0,High,0.997,Promotion / leadership-track candidate
+EMP01935,Finance,Junior,16.0,3,5.0,High,0.997,Promotion / leadership-track candidate; increase training hours
+EMP01532,Finance,Junior,80.0,4,1.0,High,0.997,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00265,Sales,Mid,49.0,2,1.0,High,0.996,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00467,HR,Junior,53.0,8,5.0,High,0.996,Promotion / leadership-track candidate; check attendance / wellbeing
+EMP01409,Operations,Junior,34.0,2,4.0,High,0.996,Promotion / leadership-track candidate; burnout risk - review workload
+EMP00605,Finance,Senior,84.0,4,4.0,High,0.996,Promotion / leadership-track candidate
+EMP01121,Sales,Junior,65.0,4,2.0,High,0.996,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00454,Engineering,Mid,85.0,5,5.0,High,0.996,Promotion / leadership-track candidate
+EMP00425,Sales,Lead,64.0,3,5.0,High,0.996,Promotion / leadership-track candidate
+EMP01414,Marketing,Mid,45.0,0,4.0,High,0.995,Promotion / leadership-track candidate
+EMP01021,Sales,Junior,67.0,2,3.0,High,0.995,Promotion / leadership-track candidate
+EMP01305,Marketing,Lead,51.0,4,4.0,High,0.995,Promotion / leadership-track candidate
+EMP01005,Engineering,Mid,80.0,3,5.0,High,0.995,Promotion / leadership-track candidate
+EMP00779,Marketing,Junior,31.0,3,5.0,High,0.995,Promotion / leadership-track candidate
+EMP00712,Engineering,Lead,76.0,2,5.0,High,0.995,Promotion / leadership-track candidate
+EMP00460,Operations,Junior,46.0,2,3.0,High,0.995,Promotion / leadership-track candidate
+EMP01783,Engineering,Junior,35.0,2,1.0,High,0.995,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00778,Marketing,Mid,52.0,2,5.0,High,0.995,Promotion / leadership-track candidate
+EMP01284,HR,Lead,84.0,5,4.0,High,0.994,Promotion / leadership-track candidate
+EMP01395,Sales,Mid,61.0,6,1.0,High,0.994,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01192,HR,Senior,73.0,3,5.0,High,0.994,Promotion / leadership-track candidate
+EMP01852,Engineering,Senior,94.0,3,5.0,High,0.993,Promotion / leadership-track candidate
+EMP01343,Operations,Mid,41.0,2,3.0,High,0.993,Promotion / leadership-track candidate
+EMP00003,Engineering,Senior,77.0,4,1.0,High,0.992,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00792,Marketing,Lead,82.0,6,4.0,High,0.992,Promotion / leadership-track candidate
+EMP00337,Support,Mid,16.0,1,5.0,High,0.992,Promotion / leadership-track candidate; increase training hours
+EMP00228,Sales,Lead,68.0,2,5.0,High,0.992,Promotion / leadership-track candidate
+EMP00705,Engineering,Junior,45.0,1,5.0,High,0.992,Promotion / leadership-track candidate
+EMP00251,Sales,Junior,32.0,2,3.0,High,0.991,Promotion / leadership-track candidate
+EMP01649,Operations,Lead,35.0,5,5.0,High,0.991,Promotion / leadership-track candidate
+EMP00836,Marketing,Mid,32.0,0,4.0,High,0.991,Promotion / leadership-track candidate
+EMP00510,Finance,Senior,88.0,3,5.0,High,0.99,Promotion / leadership-track candidate
+EMP00531,Engineering,Senior,32.0,2,5.0,High,0.99,Promotion / leadership-track candidate
+EMP01358,Engineering,Junior,96.0,5,3.0,High,0.989,Promotion / leadership-track candidate
+EMP01245,Sales,Lead,38.0,3,5.0,High,0.989,Promotion / leadership-track candidate
+EMP01744,Engineering,Junior,23.0,0,3.0,High,0.988,Promotion / leadership-track candidate
+EMP01819,Engineering,Mid,59.0,5,4.0,High,0.987,Promotion / leadership-track candidate
+EMP00025,Sales,Lead,59.0,2,5.0,High,0.987,Promotion / leadership-track candidate
+EMP01873,Operations,Mid,48.0,4,3.0,High,0.986,Promotion / leadership-track candidate
+EMP01086,Sales,Mid,92.0,4,3.0,High,0.986,Promotion / leadership-track candidate
+EMP01327,Marketing,Senior,124.0,4,1.0,High,0.986,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00656,Finance,Senior,44.0,1,4.0,High,0.986,Promotion / leadership-track candidate
+EMP00139,Sales,Senior,84.0,1,4.0,High,0.986,Promotion / leadership-track candidate
+EMP01266,Engineering,Junior,56.0,4,5.0,High,0.985,Promotion / leadership-track candidate
+EMP01298,HR,Senior,29.0,3,4.0,High,0.985,Promotion / leadership-track candidate
+EMP00303,Marketing,Junior,44.0,5,2.0,High,0.985,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00318,Marketing,Senior,19.0,2,3.0,High,0.984,Promotion / leadership-track candidate; increase training hours; burnout risk - review workload
+EMP00430,Sales,Lead,59.0,2,5.0,High,0.984,Promotion / leadership-track candidate
+EMP01620,HR,Senior,37.0,1,3.0,High,0.984,Promotion / leadership-track candidate
+EMP01422,HR,Senior,65.0,6,5.0,High,0.983,Promotion / leadership-track candidate
+EMP00220,Operations,Lead,16.0,8,5.0,High,0.983,Promotion / leadership-track candidate; increase training hours; check attendance / wellbeing
+EMP01217,Engineering,Lead,62.0,4,1.0,High,0.982,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01975,HR,Lead,40.0,1,4.0,High,0.982,Promotion / leadership-track candidate
+EMP00026,Sales,Lead,55.0,1,3.0,High,0.981,Promotion / leadership-track candidate
+EMP01729,Marketing,Lead,39.0,0,2.0,High,0.981,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01588,Sales,Senior,36.0,1,3.0,High,0.981,Promotion / leadership-track candidate
+EMP01617,Support,Senior,89.0,3,5.0,High,0.981,Promotion / leadership-track candidate
+EMP01679,Marketing,Senior,103.0,4,5.0,High,0.981,Promotion / leadership-track candidate
+EMP00945,Marketing,Junior,29.0,1,3.0,High,0.98,Promotion / leadership-track candidate
+EMP01791,Finance,Senior,37.0,1,5.0,High,0.98,Promotion / leadership-track candidate
+EMP01309,Engineering,Senior,22.0,1,3.0,High,0.98,Promotion / leadership-track candidate
+EMP01581,Sales,Mid,24.0,0,3.0,High,0.98,Promotion / leadership-track candidate
+EMP00591,Finance,Lead,63.0,2,5.0,High,0.98,Promotion / leadership-track candidate
+EMP00205,Finance,Lead,73.0,3,5.0,High,0.978,Promotion / leadership-track candidate
+EMP01725,Engineering,Lead,71.0,0,2.0,High,0.977,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00842,Finance,Lead,28.0,2,5.0,High,0.977,Promotion / leadership-track candidate
+EMP01120,Engineering,Senior,44.0,4,5.0,High,0.977,Promotion / leadership-track candidate
+EMP01273,Operations,Mid,79.0,5,5.0,High,0.976,Promotion / leadership-track candidate
+EMP00018,Finance,Senior,48.0,5,4.0,High,0.976,Promotion / leadership-track candidate; burnout risk - review workload
+EMP01779,Sales,Lead,39.0,4,5.0,High,0.975,Promotion / leadership-track candidate
+EMP01988,Engineering,Mid,27.0,2,4.0,High,0.974,Promotion / leadership-track candidate
+EMP00103,Sales,Senior,19.0,3,3.0,High,0.973,Promotion / leadership-track candidate; increase training hours
+EMP00565,HR,Senior,47.0,2,5.0,High,0.973,Promotion / leadership-track candidate
+EMP00441,Sales,Lead,65.0,0,2.0,High,0.971,Promotion / leadership-track candidate; 1:1 engagement conversation; burnout risk - review workload
+EMP00108,Engineering,Senior,42.0,2,2.0,High,0.969,Promotion / leadership-track candidate; 1:1 engagement conversation; burnout risk - review workload
+EMP00288,Operations,Mid,42.0,3,4.0,High,0.968,Promotion / leadership-track candidate
+EMP00304,Operations,Senior,86.0,4,3.0,High,0.967,Promotion / leadership-track candidate
+EMP00307,Sales,Junior,113.0,1,1.0,High,0.966,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01913,Marketing,Junior,26.0,4,5.0,High,0.966,Promotion / leadership-track candidate
+EMP01319,Engineering,Lead,28.0,0,3.0,High,0.966,Promotion / leadership-track candidate
+EMP00820,Sales,Mid,72.0,3,5.0,High,0.966,Promotion / leadership-track candidate
+EMP01078,Engineering,Junior,59.0,4,3.0,High,0.964,Promotion / leadership-track candidate
+EMP01471,Sales,Lead,67.0,4,5.0,High,0.963,Promotion / leadership-track candidate
+EMP00609,Engineering,Mid,4.0,2,5.0,High,0.963,Promotion / leadership-track candidate; increase training hours
+EMP01995,Support,Lead,42.0,2,1.0,High,0.962,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00195,Engineering,Senior,48.0,5,5.0,High,0.961,Promotion / leadership-track candidate
+EMP01147,HR,Senior,87.0,3,1.0,High,0.961,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01773,Support,Senior,42.0,1,2.0,High,0.961,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01974,Sales,Senior,37.0,3,4.0,High,0.96,Promotion / leadership-track candidate
+EMP01838,Engineering,Mid,71.0,3,3.0,High,0.96,Promotion / leadership-track candidate
+EMP01392,Sales,Mid,33.0,1,2.0,High,0.96,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01174,Sales,Mid,59.0,6,5.0,High,0.96,Promotion / leadership-track candidate
+EMP00652,Sales,Lead,90.0,4,2.0,High,0.96,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00572,Sales,Senior,34.0,3,5.0,High,0.959,Promotion / leadership-track candidate
+EMP00005,Operations,Mid,30.0,4,4.0,High,0.959,Promotion / leadership-track candidate
+EMP01119,Engineering,Senior,39.0,1,4.0,High,0.959,Promotion / leadership-track candidate
+EMP01718,Operations,Senior,49.0,4,5.0,High,0.958,Promotion / leadership-track candidate; burnout risk - review workload
+EMP01498,Marketing,Senior,36.0,4,3.0,High,0.958,Promotion / leadership-track candidate
+EMP01765,Sales,Lead,22.0,1,4.0,High,0.958,Promotion / leadership-track candidate
+EMP00088,Engineering,Senior,54.0,3,5.0,High,0.958,Promotion / leadership-track candidate
+EMP01223,Sales,Senior,22.0,1,2.0,High,0.957,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00062,Marketing,Senior,32.0,1,5.0,High,0.957,Promotion / leadership-track candidate
+EMP01738,HR,Junior,48.0,4,2.0,High,0.956,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00517,Sales,Mid,63.0,3,5.0,High,0.956,Promotion / leadership-track candidate
+EMP00874,Engineering,Junior,53.0,1,3.0,High,0.956,Promotion / leadership-track candidate
+EMP01456,Engineering,Junior,14.0,4,3.0,High,0.956,Promotion / leadership-track candidate; increase training hours
+EMP00472,Sales,Senior,31.0,0,3.0,High,0.955,Promotion / leadership-track candidate
+EMP00827,Sales,Senior,40.0,1,4.0,High,0.955,Promotion / leadership-track candidate
+EMP00471,Engineering,Senior,40.0,1,2.0,High,0.954,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01364,Finance,Senior,25.0,4,5.0,High,0.954,Promotion / leadership-track candidate
+EMP01125,Support,Lead,61.0,2,3.0,High,0.953,Promotion / leadership-track candidate
+EMP00990,Operations,Senior,48.0,3,4.0,High,0.953,Promotion / leadership-track candidate
+EMP00691,Support,Lead,49.0,3,4.0,High,0.953,Promotion / leadership-track candidate
+EMP00328,Sales,Junior,31.0,2,4.0,High,0.952,Promotion / leadership-track candidate
+EMP01279,Sales,Mid,78.0,1,1.0,High,0.951,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00235,HR,Lead,32.0,7,4.0,High,0.951,Promotion / leadership-track candidate
+EMP00790,Engineering,Junior,24.0,4,5.0,High,0.951,Promotion / leadership-track candidate
+EMP01240,Sales,Junior,32.0,5,2.0,High,0.95,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01133,HR,Lead,56.0,4,3.0,High,0.95,Promotion / leadership-track candidate
+EMP01209,Operations,Mid,101.0,3,3.0,High,0.95,Promotion / leadership-track candidate
+EMP00083,Operations,Mid,113.0,3,1.0,High,0.948,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00339,Finance,Mid,19.0,3,5.0,High,0.948,Promotion / leadership-track candidate; increase training hours
+EMP00009,Engineering,Mid,44.0,2,4.0,High,0.947,Promotion / leadership-track candidate
+EMP00516,Engineering,Senior,64.0,1,4.0,High,0.946,Promotion / leadership-track candidate
+EMP01368,Sales,Senior,25.0,3,4.0,High,0.946,Promotion / leadership-track candidate
+EMP01868,Marketing,Senior,27.0,0,5.0,High,0.945,Promotion / leadership-track candidate
+EMP00679,Marketing,Lead,51.0,2,5.0,High,0.944,Promotion / leadership-track candidate
+EMP00247,Engineering,Lead,28.0,1,4.0,High,0.944,Promotion / leadership-track candidate
+EMP00902,Engineering,Junior,45.0,6,1.0,High,0.944,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00962,Finance,Senior,58.0,3,4.0,High,0.944,Promotion / leadership-track candidate
+EMP00036,Engineering,Junior,33.0,3,5.0,High,0.943,Promotion / leadership-track candidate
+EMP00868,Sales,Lead,28.0,2,3.0,High,0.942,Promotion / leadership-track candidate
+EMP01452,Engineering,Junior,36.0,4,4.0,High,0.942,Promotion / leadership-track candidate
+EMP00109,Support,Lead,14.0,5,3.0,High,0.942,Promotion / leadership-track candidate; increase training hours
+EMP00506,Support,Lead,20.0,1,5.0,High,0.942,Promotion / leadership-track candidate
+EMP01876,Operations,Mid,60.0,1,5.0,High,0.941,Promotion / leadership-track candidate
+EMP01743,Finance,Senior,90.0,5,3.0,High,0.941,Promotion / leadership-track candidate
+EMP01079,Support,Senior,40.0,1,3.0,High,0.94,Promotion / leadership-track candidate
+EMP00117,Sales,Junior,31.0,2,5.0,High,0.94,Promotion / leadership-track candidate
+EMP00561,Marketing,Senior,54.0,6,4.0,High,0.94,Promotion / leadership-track candidate
+EMP00104,Engineering,Junior,28.0,10,5.0,High,0.939,Promotion / leadership-track candidate; check attendance / wellbeing
+EMP01113,Engineering,Junior,59.0,4,5.0,High,0.938,Promotion / leadership-track candidate
+EMP01413,HR,Mid,57.0,5,5.0,High,0.938,Promotion / leadership-track candidate
+EMP01818,Marketing,Senior,30.0,0,4.0,High,0.936,Promotion / leadership-track candidate
+EMP00040,Support,Lead,31.0,3,5.0,High,0.935,Promotion / leadership-track candidate
+EMP01839,Engineering,Mid,56.0,1,2.0,High,0.935,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00354,Engineering,Mid,48.0,2,2.0,High,0.935,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01890,Engineering,Senior,50.0,1,4.0,High,0.935,Promotion / leadership-track candidate
+EMP00283,Support,Senior,30.0,6,5.0,High,0.934,Promotion / leadership-track candidate
+EMP01805,Support,Mid,44.0,3,5.0,High,0.934,Promotion / leadership-track candidate
+EMP00134,Sales,Senior,41.0,5,5.0,High,0.934,Promotion / leadership-track candidate
+EMP00607,Operations,Mid,62.0,2,4.0,High,0.933,Promotion / leadership-track candidate
+EMP01366,Sales,Mid,20.0,3,5.0,High,0.931,Promotion / leadership-track candidate
+EMP01619,HR,Junior,32.0,1,1.0,High,0.931,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00859,Operations,Lead,47.0,1,2.0,High,0.931,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01507,Engineering,Senior,39.0,4,3.0,High,0.931,Promotion / leadership-track candidate
+EMP01953,Sales,Mid,42.0,3,4.0,High,0.93,Promotion / leadership-track candidate
+EMP00627,Sales,Senior,46.0,2,3.0,High,0.93,Promotion / leadership-track candidate
+EMP01859,Engineering,Senior,40.0,5,5.0,High,0.93,Promotion / leadership-track candidate
+EMP00906,Marketing,Lead,63.0,6,5.0,High,0.929,Promotion / leadership-track candidate
+EMP00362,Engineering,Senior,78.0,4,5.0,High,0.928,Promotion / leadership-track candidate
+EMP00899,Engineering,Junior,65.0,8,4.0,High,0.927,Promotion / leadership-track candidate; check attendance / wellbeing
+EMP00349,Engineering,Lead,19.0,1,5.0,High,0.926,Promotion / leadership-track candidate; increase training hours
+EMP00509,Finance,Senior,73.0,4,3.0,High,0.924,Promotion / leadership-track candidate
+EMP00838,Sales,Mid,77.0,5,2.0,High,0.924,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01465,Finance,Lead,27.0,3,5.0,High,0.923,Promotion / leadership-track candidate
+EMP00789,Sales,Senior,41.0,3,3.0,High,0.922,Promotion / leadership-track candidate
+EMP00894,Operations,Lead,23.0,4,5.0,High,0.922,Promotion / leadership-track candidate
+EMP00043,Sales,Lead,21.0,2,3.0,High,0.922,Promotion / leadership-track candidate
+EMP00567,Sales,Junior,14.0,5,3.0,High,0.921,Promotion / leadership-track candidate; increase training hours
+EMP01495,Sales,Senior,75.0,5,5.0,High,0.92,Promotion / leadership-track candidate
+EMP00927,Sales,Senior,56.0,4,4.0,High,0.919,Promotion / leadership-track candidate
+EMP00209,Engineering,Mid,32.0,2,4.0,High,0.919,Promotion / leadership-track candidate
+EMP00197,Support,Mid,41.0,5,5.0,High,0.918,Promotion / leadership-track candidate
+EMP01716,Sales,Senior,50.0,5,4.0,High,0.918,Promotion / leadership-track candidate
+EMP00907,Finance,Mid,33.0,3,5.0,High,0.917,Promotion / leadership-track candidate
+EMP00211,Marketing,Senior,49.0,3,5.0,High,0.917,Promotion / leadership-track candidate
+EMP01389,Operations,Senior,106.0,3,1.0,High,0.916,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01985,Finance,Lead,43.0,3,5.0,High,0.915,Promotion / leadership-track candidate
+EMP00343,Marketing,Senior,16.0,1,5.0,High,0.912,Promotion / leadership-track candidate; increase training hours
+EMP01190,HR,Junior,17.0,2,5.0,High,0.911,Promotion / leadership-track candidate; increase training hours; burnout risk - review workload
+EMP00217,Sales,Mid,58.0,6,5.0,High,0.911,Promotion / leadership-track candidate
+EMP01699,Operations,Lead,52.0,2,3.0,High,0.908,Promotion / leadership-track candidate
+EMP01351,Operations,Junior,82.0,2,3.0,High,0.908,Promotion / leadership-track candidate
+EMP00351,Operations,Senior,71.0,2,3.0,High,0.907,Promotion / leadership-track candidate
+EMP00140,Sales,Lead,38.0,0,3.0,High,0.906,Promotion / leadership-track candidate
+EMP01455,Support,Senior,50.0,4,3.0,High,0.905,Promotion / leadership-track candidate; burnout risk - review workload
+EMP00182,Engineering,Senior,19.0,1,3.0,High,0.905,Promotion / leadership-track candidate; increase training hours; burnout risk - review workload
+EMP00571,Finance,Lead,24.0,3,2.0,High,0.904,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00200,Marketing,Mid,13.0,1,2.0,High,0.902,Promotion / leadership-track candidate; increase training hours; 1:1 engagement conversation
+EMP01314,HR,Senior,63.0,4,5.0,High,0.902,Promotion / leadership-track candidate
+EMP01979,Marketing,Junior,61.0,5,3.0,High,0.902,Promotion / leadership-track candidate
+EMP01222,Marketing,Lead,24.0,2,3.0,High,0.901,Promotion / leadership-track candidate
+EMP01589,Engineering,Senior,81.0,4,5.0,High,0.901,Promotion / leadership-track candidate
+EMP00684,Sales,Lead,48.0,1,4.0,High,0.9,Promotion / leadership-track candidate
+EMP01085,Sales,Junior,60.0,1,2.0,High,0.899,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01175,Operations,Junior,19.0,5,5.0,High,0.899,Promotion / leadership-track candidate; increase training hours
+EMP01655,HR,Senior,85.0,5,1.0,High,0.898,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00193,Sales,Lead,4.0,1,4.0,High,0.898,Promotion / leadership-track candidate; increase training hours
+EMP00149,Marketing,Lead,28.0,1,4.0,High,0.894,Promotion / leadership-track candidate
+EMP01419,Engineering,Senior,84.0,6,3.0,High,0.894,Promotion / leadership-track candidate
+EMP00047,Finance,Mid,22.0,4,4.0,High,0.894,Promotion / leadership-track candidate
+EMP01432,Engineering,Mid,45.0,6,1.0,High,0.893,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01616,Marketing,Mid,85.0,2,1.0,High,0.89,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00375,Operations,Senior,33.0,4,4.0,High,0.89,Promotion / leadership-track candidate
+EMP00329,Support,Mid,64.0,2,5.0,High,0.89,Promotion / leadership-track candidate
+EMP00147,Engineering,Junior,36.0,3,2.0,High,0.889,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01292,Operations,Senior,30.0,1,4.0,High,0.888,Promotion / leadership-track candidate
+EMP00346,Engineering,Mid,61.0,3,1.0,High,0.887,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00883,Operations,Senior,57.0,5,4.0,High,0.885,Promotion / leadership-track candidate
+EMP00791,Sales,Junior,16.0,0,3.0,High,0.884,Promotion / leadership-track candidate; increase training hours
+EMP00676,Operations,Lead,68.0,2,3.0,High,0.884,Promotion / leadership-track candidate
+EMP01402,HR,Junior,44.0,5,5.0,High,0.883,Promotion / leadership-track candidate
+EMP01117,Marketing,Lead,64.0,2,4.0,High,0.882,Promotion / leadership-track candidate
+EMP00523,Engineering,Mid,26.0,2,3.0,High,0.882,Promotion / leadership-track candidate
+EMP01525,Engineering,Lead,81.0,4,4.0,High,0.881,Promotion / leadership-track candidate
+EMP01352,Engineering,Senior,62.0,3,2.0,High,0.881,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01949,Operations,Junior,64.0,2,2.0,High,0.881,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01231,Operations,Senior,39.0,3,3.0,High,0.881,Promotion / leadership-track candidate
+EMP01390,Sales,Senior,76.0,2,2.0,High,0.88,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01502,Sales,Senior,32.0,2,1.0,High,0.88,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01540,Engineering,Lead,42.0,2,4.0,High,0.878,Promotion / leadership-track candidate
+EMP01964,Operations,Senior,42.0,3,5.0,High,0.877,Promotion / leadership-track candidate
+EMP01213,Support,Senior,41.0,2,2.0,High,0.875,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00491,Support,Senior,62.0,1,2.0,High,0.87,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00925,Engineering,Mid,78.0,5,3.0,High,0.87,Promotion / leadership-track candidate
+EMP00863,Operations,Junior,16.0,0,5.0,High,0.869,Promotion / leadership-track candidate; increase training hours
+EMP01798,Engineering,Mid,50.0,6,3.0,High,0.869,Promotion / leadership-track candidate
+EMP01474,Finance,Junior,19.0,2,4.0,High,0.866,Promotion / leadership-track candidate; increase training hours
+EMP01246,Operations,Lead,26.0,4,3.0,High,0.866,Promotion / leadership-track candidate
+EMP01239,Sales,Mid,78.0,4,3.0,High,0.865,Promotion / leadership-track candidate
+EMP00648,Sales,Lead,33.0,2,3.0,High,0.865,Promotion / leadership-track candidate
+EMP00164,Operations,Mid,36.0,3,4.0,High,0.863,Promotion / leadership-track candidate
+EMP00819,Engineering,Senior,44.0,3,5.0,High,0.862,Promotion / leadership-track candidate
+EMP01823,Engineering,Senior,34.0,4,4.0,High,0.86,Promotion / leadership-track candidate
+EMP00987,Support,Senior,60.0,4,4.0,High,0.859,Promotion / leadership-track candidate
+EMP01362,Operations,Junior,45.0,4,2.0,High,0.857,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00692,Marketing,Senior,40.0,2,4.0,High,0.857,Promotion / leadership-track candidate
+EMP00559,Sales,Senior,96.0,5,3.0,High,0.853,Promotion / leadership-track candidate
+EMP01722,Operations,Lead,37.0,1,4.0,High,0.853,Promotion / leadership-track candidate
+EMP01478,Sales,Senior,100.0,2,2.0,High,0.849,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00342,Engineering,Mid,50.0,0,3.0,High,0.849,Promotion / leadership-track candidate
+EMP01688,Engineering,Junior,53.0,3,5.0,High,0.847,Promotion / leadership-track candidate
+EMP00379,Engineering,Lead,49.0,5,2.0,High,0.844,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01105,Engineering,Junior,41.0,2,5.0,High,0.844,Promotion / leadership-track candidate
+EMP00180,Engineering,Mid,53.0,3,5.0,High,0.844,Promotion / leadership-track candidate
+EMP01942,Operations,Mid,61.0,3,2.0,High,0.843,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01164,Engineering,Senior,40.0,3,5.0,High,0.839,Promotion / leadership-track candidate
+EMP00010,Engineering,Mid,16.0,5,5.0,High,0.839,Promotion / leadership-track candidate; increase training hours
+EMP00537,Sales,Lead,22.0,3,4.0,High,0.839,Promotion / leadership-track candidate
+EMP01986,Support,Senior,55.0,0,2.0,High,0.838,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00002,Support,Lead,40.0,2,5.0,High,0.836,Promotion / leadership-track candidate
+EMP00603,Marketing,Lead,29.0,2,5.0,High,0.832,Promotion / leadership-track candidate
+EMP01016,Engineering,Mid,83.0,2,2.0,High,0.832,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01788,HR,Junior,68.0,1,3.0,High,0.832,Promotion / leadership-track candidate
+EMP01433,Operations,Junior,59.0,4,4.0,High,0.831,Promotion / leadership-track candidate
+EMP00194,Engineering,Senior,39.0,3,5.0,High,0.831,Promotion / leadership-track candidate
+EMP00680,Sales,Mid,23.0,4,3.0,High,0.829,Promotion / leadership-track candidate
+EMP01548,Operations,Senior,59.0,2,2.0,High,0.828,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01602,Sales,Lead,53.0,4,2.0,High,0.828,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01980,Engineering,Lead,20.0,2,4.0,High,0.825,Promotion / leadership-track candidate
+EMP01424,HR,Senior,26.0,5,5.0,High,0.824,Promotion / leadership-track candidate
+EMP01520,Sales,Lead,47.0,2,3.0,High,0.823,Promotion / leadership-track candidate
+EMP01806,Marketing,Junior,31.0,4,4.0,High,0.823,Promotion / leadership-track candidate
+EMP01512,Sales,Senior,96.0,2,2.0,High,0.823,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01157,Sales,Junior,32.0,0,3.0,High,0.821,Promotion / leadership-track candidate
+EMP01306,Operations,Lead,72.0,6,2.0,High,0.82,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00360,Engineering,Lead,71.0,6,3.0,High,0.82,Promotion / leadership-track candidate
+EMP01122,Engineering,Junior,86.0,4,4.0,High,0.819,Promotion / leadership-track candidate
+EMP00593,Operations,Mid,31.0,2,4.0,High,0.819,Promotion / leadership-track candidate
+EMP01654,Finance,Senior,70.0,2,2.0,High,0.817,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01607,Operations,Mid,15.0,2,3.0,High,0.816,Promotion / leadership-track candidate; increase training hours
+EMP00097,Sales,Senior,78.0,4,4.0,High,0.813,Promotion / leadership-track candidate
+EMP00651,Sales,Junior,33.0,3,4.0,High,0.813,Promotion / leadership-track candidate
+EMP00677,Finance,Senior,32.0,3,5.0,High,0.812,Promotion / leadership-track candidate
+EMP01707,Engineering,Lead,33.0,4,4.0,High,0.81,Promotion / leadership-track candidate
+EMP01428,Marketing,Mid,13.0,1,4.0,High,0.809,Promotion / leadership-track candidate; increase training hours
+EMP00426,Marketing,Senior,49.0,3,5.0,High,0.809,Promotion / leadership-track candidate
+EMP00387,HR,Junior,56.0,3,2.0,High,0.807,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01786,Marketing,Senior,66.0,5,4.0,High,0.804,Promotion / leadership-track candidate
+EMP01956,Sales,Senior,53.0,2,3.0,High,0.802,Promotion / leadership-track candidate
+EMP01741,Engineering,Mid,66.0,5,5.0,High,0.8,Promotion / leadership-track candidate
+EMP01886,Operations,Senior,29.0,2,1.0,High,0.799,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00046,Sales,Senior,64.0,3,3.0,High,0.799,Promotion / leadership-track candidate
+EMP01521,Engineering,Lead,37.0,1,2.0,High,0.798,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00994,Support,Lead,47.0,3,2.0,High,0.798,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01992,Finance,Mid,60.0,0,4.0,High,0.797,Promotion / leadership-track candidate
+EMP00956,Sales,Senior,23.0,2,5.0,High,0.793,Promotion / leadership-track candidate
+EMP00809,Finance,Senior,37.0,2,3.0,High,0.792,Promotion / leadership-track candidate
+EMP01609,Engineering,Lead,18.0,5,3.0,High,0.79,Promotion / leadership-track candidate; increase training hours
+EMP01369,HR,Senior,17.0,2,2.0,High,0.789,Promotion / leadership-track candidate; increase training hours; 1:1 engagement conversation
+EMP00533,Sales,Junior,32.0,3,5.0,High,0.788,Promotion / leadership-track candidate; burnout risk - review workload
+EMP00077,Finance,Mid,49.0,1,3.0,High,0.788,Promotion / leadership-track candidate
+EMP01817,Engineering,Senior,18.0,2,5.0,High,0.788,Promotion / leadership-track candidate; increase training hours
+EMP01270,Marketing,Mid,62.0,4,4.0,High,0.785,Promotion / leadership-track candidate
+EMP00466,Sales,Lead,38.0,0,2.0,High,0.785,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01938,Engineering,Lead,35.0,4,5.0,High,0.784,Promotion / leadership-track candidate
+EMP00553,Engineering,Senior,13.0,2,2.0,High,0.782,Promotion / leadership-track candidate; increase training hours; 1:1 engagement conversation
+EMP00367,Engineering,Lead,69.0,5,4.0,High,0.78,Promotion / leadership-track candidate
+EMP00825,Engineering,Senior,32.0,2,1.0,High,0.779,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01518,Operations,Mid,44.0,2,3.0,High,0.779,Promotion / leadership-track candidate
+EMP00427,Sales,Mid,69.0,0,2.0,High,0.779,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01000,Support,Lead,61.0,0,2.0,High,0.778,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00016,Engineering,Mid,38.0,3,4.0,High,0.777,Promotion / leadership-track candidate
+EMP00324,Engineering,Senior,45.0,6,4.0,High,0.775,Promotion / leadership-track candidate
+EMP01867,HR,Junior,18.0,7,3.0,High,0.775,Promotion / leadership-track candidate; increase training hours
+EMP00289,Sales,Lead,32.0,5,5.0,High,0.774,Promotion / leadership-track candidate
+EMP00377,Operations,Senior,70.0,1,4.0,High,0.772,Promotion / leadership-track candidate
+EMP00275,Engineering,Senior,4.0,4,1.0,High,0.771,Promotion / leadership-track candidate; increase training hours; 1:1 engagement conversation
+EMP01934,Finance,Senior,44.0,5,3.0,High,0.77,Promotion / leadership-track candidate
+EMP01391,Sales,Senior,43.0,2,5.0,High,0.77,Promotion / leadership-track candidate
+EMP01692,Sales,Lead,31.0,1,2.0,High,0.769,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00042,HR,Lead,37.0,2,4.0,High,0.768,Promotion / leadership-track candidate
+EMP00368,Engineering,Senior,41.0,3,3.0,High,0.768,Promotion / leadership-track candidate
+EMP01590,Sales,Junior,43.0,2,1.0,High,0.767,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00931,Engineering,Mid,31.0,3,5.0,High,0.767,Promotion / leadership-track candidate
+EMP01204,Operations,Senior,32.0,2,4.0,High,0.766,Promotion / leadership-track candidate
+EMP01152,Marketing,Senior,29.0,3,5.0,High,0.764,Promotion / leadership-track candidate
+EMP00943,Engineering,Lead,29.0,5,5.0,High,0.762,Promotion / leadership-track candidate
+EMP00281,Engineering,Senior,9.0,5,1.0,High,0.762,Promotion / leadership-track candidate; increase training hours; 1:1 engagement conversation
+EMP01172,Engineering,Senior,25.0,1,4.0,High,0.755,Promotion / leadership-track candidate
+EMP00154,Support,Senior,21.0,1,2.0,High,0.755,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00444,Finance,Senior,94.0,2,1.0,High,0.755,Promotion / leadership-track candidate; 1:1 engagement conversation; burnout risk - review workload
+EMP00488,Engineering,Mid,26.0,5,4.0,High,0.754,Promotion / leadership-track candidate
+EMP01932,Finance,Senior,41.0,4,5.0,High,0.752,Promotion / leadership-track candidate
+EMP01454,Sales,Mid,32.0,2,5.0,High,0.752,Promotion / leadership-track candidate
+EMP01446,Operations,Mid,54.0,4,2.0,High,0.751,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00861,Operations,Lead,29.0,4,5.0,High,0.749,Promotion / leadership-track candidate
+EMP00402,Operations,Senior,40.0,3,4.0,High,0.748,Promotion / leadership-track candidate
+EMP00903,Engineering,Mid,13.0,2,5.0,High,0.746,Promotion / leadership-track candidate; increase training hours
+EMP00203,Sales,Lead,47.0,2,2.0,High,0.746,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00756,Operations,Mid,32.0,1,2.0,High,0.746,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00535,Operations,Senior,17.0,1,3.0,High,0.745,Promotion / leadership-track candidate; increase training hours
+EMP01318,Operations,Senior,12.0,2,5.0,High,0.745,Promotion / leadership-track candidate; increase training hours
+EMP01338,Support,Mid,87.0,4,3.0,High,0.745,Promotion / leadership-track candidate
+EMP00843,Sales,Lead,48.0,4,2.0,High,0.744,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01524,Operations,Mid,43.0,4,3.0,High,0.742,Promotion / leadership-track candidate
+EMP00577,Marketing,Lead,45.0,1,2.0,High,0.741,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00204,Engineering,Lead,59.0,3,3.0,High,0.741,Promotion / leadership-track candidate
+EMP00199,Engineering,Lead,46.0,2,3.0,High,0.736,Promotion / leadership-track candidate
+EMP01730,Engineering,Mid,23.0,2,3.0,High,0.736,Promotion / leadership-track candidate
+EMP01842,Sales,Junior,53.0,2,3.0,High,0.735,Promotion / leadership-track candidate
+EMP01329,Sales,Lead,75.0,2,3.0,High,0.734,Promotion / leadership-track candidate
+EMP00317,Operations,Senior,29.0,6,3.0,High,0.732,Promotion / leadership-track candidate
+EMP01197,HR,Lead,18.0,4,4.0,High,0.73,Promotion / leadership-track candidate; increase training hours
+EMP00545,Operations,Mid,13.0,1,4.0,High,0.729,Promotion / leadership-track candidate; increase training hours
+EMP00524,Marketing,Senior,18.0,5,4.0,High,0.728,Promotion / leadership-track candidate; increase training hours
+EMP00975,Operations,Mid,38.0,3,5.0,High,0.728,Promotion / leadership-track candidate
+EMP01673,Finance,Mid,61.0,4,4.0,High,0.727,Promotion / leadership-track candidate
+EMP00864,HR,Lead,35.0,5,4.0,High,0.727,Promotion / leadership-track candidate; burnout risk - review workload
+EMP01515,Engineering,Mid,19.0,2,5.0,High,0.724,Promotion / leadership-track candidate; increase training hours
+EMP01302,Engineering,Senior,14.0,7,5.0,High,0.723,Promotion / leadership-track candidate; increase training hours
+EMP00918,Engineering,Lead,28.0,2,5.0,High,0.723,Promotion / leadership-track candidate; burnout risk - review workload
+EMP00869,Operations,Senior,45.0,2,2.0,High,0.723,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01613,Sales,Lead,77.0,4,1.0,High,0.72,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01415,Operations,Senior,52.0,5,4.0,High,0.72,Promotion / leadership-track candidate
+EMP01339,Marketing,Senior,26.0,1,5.0,High,0.72,Promotion / leadership-track candidate
+EMP00811,Support,Junior,59.0,1,2.0,High,0.719,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00059,Engineering,Senior,101.0,3,2.0,High,0.719,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00963,Operations,Senior,37.0,3,3.0,High,0.718,Promotion / leadership-track candidate
+EMP01151,Marketing,Mid,61.0,5,2.0,High,0.718,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00736,Operations,Senior,32.0,1,5.0,High,0.717,Promotion / leadership-track candidate
+EMP00628,HR,Senior,42.0,5,2.0,High,0.715,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP01126,Marketing,Mid,32.0,2,3.0,High,0.714,Promotion / leadership-track candidate
+EMP00520,Marketing,Mid,29.0,1,4.0,High,0.714,Promotion / leadership-track candidate
+EMP01572,Operations,Senior,12.0,3,4.0,High,0.712,Promotion / leadership-track candidate; increase training hours
+EMP00501,Operations,Junior,27.0,3,4.0,High,0.71,Promotion / leadership-track candidate
+EMP01267,HR,Junior,46.0,5,1.0,High,0.71,Promotion / leadership-track candidate; 1:1 engagement conversation
+EMP00445,Support,Lead,29.0,4,5.0,High,0.706,Promotion / leadership-track candidate
+EMP01748,Finance,Mid,26.0,3,5.0,High,0.705,Promotion / leadership-track candidate
+EMP00833,Marketing,Lead,8.0,1,4.0,High,0.704,Promotion / leadership-track candidate; increase training hours
+EMP01272,Marketing,Junior,28.0,4,1.0,High,0.7,Promotion / leadership-track candidate; 1:1 engagement conversation
