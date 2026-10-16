@@ -1,0 +1,11 @@
+employee_id,age,department,education,job_level,work_mode,years_experience,years_at_company,monthly_salary,training_hours,projects_completed,avg_monthly_hours,absences,last_rating,peer_feedback_score,years_since_promotion,job_satisfaction,work_life_balance
+NEW001,57,Marketing,Bachelor,Senior,Remote,28.9,22.0,87200.0,23.0,32,202.0,6,2,3.3,4.0,4,1
+NEW002,38,Engineering,Bachelor,Senior,Remote,9.8,7.1,99300.0,30.0,8,234.0,3,4,2.9,2.1,3,1
+NEW003,34,Marketing,Bachelor,Mid,Hybrid,8.9,1.1,62700.0,21.0,2,193.0,2,3,4.3,1.1,1,1
+NEW004,55,Operations,Bachelor,Senior,Hybrid,29.0,11.1,94600.0,49.0,15,169.0,4,5,3.8,6.4,4,1
+NEW005,35,Marketing,Bachelor,Lead,Hybrid,12.9,6.4,136400.0,30.0,6,176.0,4,4,3.6,1.0,4,3
+NEW006,47,Engineering,Bachelor,Senior,Remote,18.6,8.3,119000.0,23.0,12,153.0,1,2,3.6,5.4,1,1
+NEW007,44,Marketing,Master,Lead,Hybrid,18.0,0.3,167800.0,35.0,1,177.0,1,2,3.3,0.2,1,2
+NEW008,30,Marketing,Bachelor,Junior,Remote,6.8,1.1,35200.0,25.0,3,164.0,3,3,3.3,0.3,4,1
+NEW009,24,Engineering,Bachelor,Junior,Hybrid,0.8,0.1,41800.0,13.0,3,159.0,4,4,5.0,0.1,3,1
+NEW010,30,Engineering,Bachelor,Mid,Office,9.0,3.6,70900.0,9.0,6,167.0,5,4,4.2,3.6,2,3
